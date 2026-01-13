@@ -1,0 +1,1930 @@
+WEBVTT
+
+1
+00:01:53.230 --> 00:01:54.640
+Klaartje De Schepper: Hey, John.
+
+2
+00:01:55.530 --> 00:01:56.530
+Klaartje De Schepper: Good morning.
+
+3
+00:01:56.530 --> 00:01:58.120
+John Mertic (The Linux Foundation): Hey, good morning, how are you?
+
+4
+00:01:58.120 --> 00:02:00.850
+Klaartje De Schepper: How's… I'm alright, how are you doing?
+
+5
+00:02:00.850 --> 00:02:02.820
+John Mertic (The Linux Foundation): Doing well! Doing well, thank you.
+
+6
+00:02:03.640 --> 00:02:10.719
+Klaartje De Schepper: I see we have Mohamed here as well. I know he's gonna be on listen-only mode.
+
+7
+00:02:11.600 --> 00:02:14.669
+Klaartje De Schepper: That if you want to say hello, Muhammad.
+
+8
+00:02:17.470 --> 00:02:23.590
+Klaartje De Schepper: we'll do a round of interest later. So, I invited Mohammed and John, I met him at a,
+
+9
+00:02:23.920 --> 00:02:29.189
+Klaartje De Schepper: a conference, called the Declared of Amsterdam last year.
+
+10
+00:02:29.680 --> 00:02:40.070
+Klaartje De Schepper: And he is… he is an expert in our work, so we're very lucky to have him on the call. I asked him to join…
+
+11
+00:02:40.210 --> 00:02:47.960
+Klaartje De Schepper: To be our mentor, and to give… to listen in, and then give us a round of feedback.
+
+12
+00:02:47.960 --> 00:03:04.470
+Klaartje De Schepper: He is somewhat familiar with the domain, because we have worked before, so that puts him in a great position to help us follow up on some of the things that we're discussing today, and move towards having our repository materials shared with the group.
+
+13
+00:03:05.370 --> 00:03:06.399
+John Mertic (The Linux Foundation): That's awesome!
+
+14
+00:03:08.980 --> 00:03:16.109
+Klaartje De Schepper: And then, yeah, I see Jaryl has joined. Hey, Jerry, good morning!
+
+15
+00:03:24.630 --> 00:03:27.999
+Klaartje De Schepper: I did put together some slides with an agenda.
+
+16
+00:03:29.210 --> 00:03:32.629
+Klaartje De Schepper: So, maybe I should share that.
+
+17
+00:03:48.160 --> 00:03:56.880
+Klaartje De Schepper: I also started a little repository for our notes, and we will place that in our new URBX.org repository.
+
+18
+00:04:00.650 --> 00:04:01.450
+John Mertic (The Linux Foundation): Nice!
+
+19
+00:04:03.260 --> 00:04:08.289
+Klaartje De Schepper: Yeah, and I… yeah, I'd… Wanted to share everything.
+
+20
+00:04:08.800 --> 00:04:13.430
+Klaartje De Schepper: Beforehand, but… That hasn't yet.
+
+21
+00:04:13.550 --> 00:04:14.660
+Klaartje De Schepper: worked out.
+
+22
+00:04:14.850 --> 00:04:16.450
+Klaartje De Schepper: Apologies for that.
+
+23
+00:04:18.630 --> 00:04:19.899
+Klaartje De Schepper: Aight.
+
+24
+00:04:36.300 --> 00:04:37.200
+Klaartje De Schepper: Okay.
+
+25
+00:04:37.360 --> 00:04:41.329
+Klaartje De Schepper: Can you see my screen over here with our agenda?
+
+26
+00:04:42.280 --> 00:04:43.070
+Una Smithsimon: Yes.
+
+27
+00:04:44.610 --> 00:04:45.970
+Klaartje De Schepper: Let me get that.
+
+28
+00:04:48.300 --> 00:04:51.109
+Klaartje De Schepper: Let me see if I can still see folks.
+
+29
+00:04:52.900 --> 00:05:00.730
+Klaartje De Schepper: No. Hmm… All right, well, I'll have to do without seeing you, I think.
+
+30
+00:05:15.100 --> 00:05:20.029
+Klaartje De Schepper: And I think we are… Still a little bit early.
+
+31
+00:05:24.840 --> 00:05:25.640
+Klaartje De Schepper: Go.
+
+32
+00:05:37.870 --> 00:05:43.950
+Klaartje De Schepper: Oh, I can't see anybody because nobody else has their camera on. That's what's happening. That's okay.
+
+33
+00:05:45.650 --> 00:05:48.709
+Klaartje De Schepper: What do you usually do for these working groups?
+
+34
+00:05:49.070 --> 00:05:52.470
+Klaartje De Schepper: John, do you often have cameras on or off?
+
+35
+00:05:52.780 --> 00:06:04.659
+John Mertic (The Linux Foundation): Everyone has their own preference. You know, sometimes it's also connectivity-related, because some folks aren't on great connections, so that can cause issues, but it's really up to the group's reference of what they prefer.
+
+36
+00:06:06.250 --> 00:06:09.889
+Klaartje De Schepper: Yeah. So, yeah, we'll be discussing that. Hey, Neil!
+
+37
+00:06:10.960 --> 00:06:13.010
+Neil Williams: Hi, great to see you. Sorry I'm late.
+
+38
+00:06:13.010 --> 00:06:15.430
+Klaartje De Schepper: Great to see you, too. Thank you for joining.
+
+39
+00:06:18.650 --> 00:06:24.620
+Klaartje De Schepper: Okay… And I'm gonna give it just a few more minutes.
+
+40
+00:06:25.040 --> 00:06:32.700
+Klaartje De Schepper: I see they have… dial in… Joined us from Utility API.
+
+41
+00:06:33.440 --> 00:06:34.700
+Klaartje De Schepper: as well.
+
+42
+00:06:36.150 --> 00:06:38.720
+Klaartje De Schepper: And we did invite a few other folks.
+
+43
+00:06:39.200 --> 00:06:53.980
+Klaartje De Schepper: And maybe that Jordan Hughes from Apple is able to join at maybe a little bit early for him, in California time. That'll be one order of business for us to try and discuss a time that works for everybody.
+
+44
+00:06:55.140 --> 00:06:55.940
+Klaartje De Schepper: Yeah.
+
+45
+00:06:57.050 --> 00:07:03.060
+Klaartje De Schepper: Okay, I think we should get started. I don't want to set a practice of starting too late.
+
+46
+00:07:04.820 --> 00:07:22.459
+Klaartje De Schepper: we have an agenda for today, actually. Apologies for not sharing this in advance. We're gonna do a round of hellos, an intro to our project, then I'll share with the group the materials that we've generated so far with their current status.
+
+47
+00:07:22.580 --> 00:07:30.770
+Klaartje De Schepper: An important part will be to pique people's interest so we can get volunteers to start working on each of these sections in the agenda.
+
+48
+00:07:31.500 --> 00:07:37.849
+Klaartje De Schepper: And then we'll talk about some more logistics around the working group and talk about next steps.
+
+49
+00:07:40.210 --> 00:07:41.150
+Klaartje De Schepper: So, yep.
+
+50
+00:07:41.560 --> 00:07:47.919
+Klaartje De Schepper: Welcome, everybody. Thank you for joining the first Utility Rate Plan Exchange Working Group meeting.
+
+51
+00:07:48.330 --> 00:08:04.560
+Klaartje De Schepper: It's been an amazing experience from submitting our proposal to LF Energy on August 3rd. That's really how short a time that was ago, and getting our proposal approved and putting things together to start this first
+
+52
+00:08:05.530 --> 00:08:07.419
+Klaartje De Schepper: Working group meeting.
+
+53
+00:08:07.610 --> 00:08:09.459
+Klaartje De Schepper: So, we are,
+
+54
+00:08:09.910 --> 00:08:22.269
+Klaartje De Schepper: luckily able to meet before Thanksgiving was our goal, and that was in order to start getting the work going of organizing among the new members of our working group.
+
+55
+00:08:22.940 --> 00:08:41.179
+Klaartje De Schepper: And a lot of the technology we're introducing may mean that people are going to learn up on some basic things, like RDF and semantic web, and we wanted to make sure to get this first pre-holiday meeting in place to get some of that learning process underway.
+
+56
+00:08:42.080 --> 00:08:48.369
+Klaartje De Schepper: And so, yeah, with no further ado, then, we will start with the,
+
+57
+00:08:48.480 --> 00:09:02.049
+Klaartje De Schepper: Introductions. My name is Clark to discover. I'm the CEO and founder of Flux Taylor. We specialize in building tools to help people do more accurate cost and emission calculations for energy projects.
+
+58
+00:09:02.190 --> 00:09:12.020
+Klaartje De Schepper: And we've recently made a pivot from doing that in a consulting fashion, and have moved towards building our own SaaS solutions.
+
+59
+00:09:12.310 --> 00:09:20.900
+Klaartje De Schepper: And this, ERPX initiative is part of, of our… a foundational part of our strategy going forward.
+
+60
+00:09:21.260 --> 00:09:27.240
+Klaartje De Schepper: And we're very grateful to be joined, by some long-time partners. We have,
+
+61
+00:09:27.350 --> 00:09:38.310
+Klaartje De Schepper: a memorandum of Understanding with the National Renewable Energy Laboratory. I don't yet see Daniel Zimni-Schmidt on the call, but he may be able to join us later.
+
+62
+00:09:38.490 --> 00:09:41.329
+Klaartje De Schepper: And he, will be contributing to the work.
+
+63
+00:09:41.700 --> 00:09:52.289
+Klaartje De Schepper: And then from… I'll start with, introducing people from my team, and then I guess, we'll… we'll go down the list, and I'll call on each person.
+
+64
+00:09:52.730 --> 00:09:57.109
+Klaartje De Schepper: So, to start, I'll hand it over to Onesmit Simon.
+
+65
+00:09:57.400 --> 00:10:01.810
+Klaartje De Schepper: Who is our data scientist and product manager in training.
+
+66
+00:10:01.940 --> 00:10:02.720
+Klaartje De Schepper: Buna.
+
+67
+00:10:03.720 --> 00:10:28.330
+Una Smithsimon: Hi, yes, my name is Una Smith-Simon, I'm a data scientist and product manager in training at FluxTaylor, and I have been lucky enough to be a part of starting to develop our ERPEX standard, and yeah, looking forward to getting to know everyone. I will be taking, getting notes, for today, and yes, looking forward to
+
+68
+00:10:28.330 --> 00:10:31.830
+Una Smithsimon: Meeting everyone discussing the project further. Thank you.
+
+69
+00:10:32.500 --> 00:10:33.699
+Klaartje De Schepper: Thank you, Una.
+
+70
+00:10:34.170 --> 00:10:40.480
+Klaartje De Schepper: Dave, good morning. Dave is calling in from California, so it's super early. Thanks for joining, Dave.
+
+71
+00:10:42.490 --> 00:10:45.520
+Klaartje De Schepper: Richardson is his last name.
+
+72
+00:10:46.720 --> 00:10:54.580
+Klaartje De Schepper: And actually, he's not able to join, I see here, so he wasn't able to join, but he is working very closely with us in the background.
+
+73
+00:10:54.900 --> 00:11:03.930
+Klaartje De Schepper: So then, yeah, I'll hand it over to the first person, I guess it's sorting alphabetically, Bruce Nordman. Thank you so much for joining, Bruce.
+
+74
+00:11:03.950 --> 00:11:15.010
+Bruce Nordman: Yeah, I have my camera off because I just woke up. I am also in California. So my interest in what I call tariffs, I prefer that word than rate, because…
+
+75
+00:11:15.430 --> 00:11:31.010
+Bruce Nordman: rate could mean price, it could mean bill, it could mean tariff, but anyways, it's neither here nor there. Rates or bills have typically been for revenue recovery only, but my work for the last, bunch of years has been for using
+
+76
+00:11:31.290 --> 00:11:49.929
+Bruce Nordman: Electricity prices that are at least hourly and different every day as a control signal so that loads can be flexible to deliver value for the grid and value for the customer by reducing their bills, and this means that the complexity of the tariff needs to be constrained so that devices can know what to expect and know what to do with it.
+
+77
+00:11:50.450 --> 00:12:03.480
+Bruce Nordman: So, as an example, my heat pump, which does my spacing and water heat, right now is optimizing to hourly electricity prices, and if it got something it didn't know what to expect, like a demand charge, it would have no idea what to do with it.
+
+78
+00:12:03.480 --> 00:12:18.849
+Bruce Nordman: So that's a completely different purpose of tariffs than we've had in the past, and I think it's the future. So that doesn't change necessarily what this group does, but it does change what, like, utilities and regulators do with tariffs in terms of
+
+79
+00:12:18.890 --> 00:12:24.269
+Bruce Nordman: designing them… Principally as a… yeah, anyways, that's the point. That's okay.
+
+80
+00:12:24.270 --> 00:12:24.710
+Klaartje De Schepper: Okay.
+
+81
+00:12:24.710 --> 00:12:30.260
+Bruce Nordman: It's just for automation at this point. I mean, that's my introduction, thank you.
+
+82
+00:12:30.320 --> 00:12:33.180
+Klaartje De Schepper: I failed to mention, we're gonna keep it to a few sentences for.
+
+83
+00:12:33.180 --> 00:12:34.310
+Bruce Nordman: Sorry, okay, yes, I'm done.
+
+84
+00:12:34.310 --> 00:12:48.430
+Klaartje De Schepper: No, everybody's here for a reason. Clearly, Bruce has caught me a lot already on highly dynamic pricing, so that's why I wanted to ask him to join our group, since we will be working, you know, leaning into everybody's expertise.
+
+85
+00:12:48.430 --> 00:13:05.309
+Klaartje De Schepper: We have chosen the term rate plans for a reason, as tariffs can also be very confusing. There's, you know, no perfection here, that's just a choice we have made to coin this term, rate plan, and have a streamlined presentation.
+
+86
+00:13:05.310 --> 00:13:13.240
+Klaartje De Schepper: In that functional unit. Okay, then I'll hand it over next to Diane from Utility API. Hi, Di, thank you for joining.
+
+87
+00:13:13.550 --> 00:13:36.969
+Dai Lin: Hi, Clark, thanks for having me. I'm head of product at Utility API, and we do data access, both in serving, creating data access platforms for utilities, and making it accessible to third parties who need that data, and rates are a constant area of ambiguity for all parties, so excited about this initiative.
+
+88
+00:13:36.970 --> 00:13:37.580
+Dai Lin: Thanks.
+
+89
+00:13:38.400 --> 00:13:47.720
+Klaartje De Schepper: Thank you. Yeah, so, close connection between rate plans and utility bills, of course, because items in a rate plan become line items on a bill.
+
+90
+00:13:49.140 --> 00:13:55.849
+Klaartje De Schepper: And then we'll hand it over to John Murdig, and then after that, Jordan from Apple.
+
+91
+00:13:56.230 --> 00:14:14.279
+John Mertic (The Linux Foundation): Hi, my name's John Murtech, one of our program directors here at LF Energy. My colleague, Jadi Ortiz, also supports, so we're here to support this team in both best practices, but also any sort of operational back-end needs you might have. I'm excited to see this, get off the ground.
+
+92
+00:14:17.840 --> 00:14:21.739
+Jordan Hughes (Apple Inc.): Hey, I'm Jordan, I'm an engineer at Apple,
+
+93
+00:14:21.760 --> 00:14:42.360
+Jordan Hughes (Apple Inc.): I work on the energy services team, so my team has done, sort of some energy-related features, such as clean energy charging in the past and that sort of thing. So we have a strong interest in standardization in this space as well, so I'm excited to see, you know, this working group come up, especially with the cost and…
+
+94
+00:14:42.530 --> 00:14:47.129
+Jordan Hughes (Apple Inc.): rate data, not tariff data, right?
+
+95
+00:14:47.310 --> 00:14:48.120
+Jordan Hughes (Apple Inc.): Damn.
+
+96
+00:14:48.120 --> 00:14:52.170
+Klaartje De Schepper: Maybe we'll come up with a better term, Jordan.
+
+97
+00:14:52.170 --> 00:14:58.470
+Jordan Hughes (Apple Inc.): So yeah, I'm excited to see this group go forward.
+
+98
+00:14:59.310 --> 00:15:00.260
+Klaartje De Schepper: Thank you.
+
+99
+00:15:00.530 --> 00:15:05.810
+Klaartje De Schepper: And then, Jory, and if he can speak up, Mohammed.
+
+100
+00:15:06.550 --> 00:15:09.859
+Klaartje De Schepper: And then… Jaril.
+
+101
+00:15:10.840 --> 00:15:11.690
+Klaartje De Schepper: Jerry.
+
+102
+00:15:13.450 --> 00:15:37.029
+Jory Burson (The Linux Foundation): Hello, so my name is Joy Burson, I'm the Vice President of Standards at the Linux Foundation. Was just really interested in following the URPX group's, progress and what you're going to be building together as a specification. We've got some projects across the, Linux Foundation and Joint Development Foundation portfolios that I think will be very interested.
+
+103
+00:15:37.030 --> 00:15:53.799
+Jory Burson (The Linux Foundation): To, to follow along. So I'm mostly here as a lurker today, but if there are questions about, how our projects utilize specifically the community specification governance structure, we would be very welcome to point those to me.
+
+104
+00:15:53.990 --> 00:15:55.250
+Jory Burson (The Linux Foundation): And thanks so much!
+
+105
+00:15:55.900 --> 00:16:02.439
+Klaartje De Schepper: Thank you, and we'll take… we'll take lurkers who are listening and connecting us with others. We really appreciate it.
+
+106
+00:16:04.350 --> 00:16:08.329
+Mohamed Zergaoui: Hi, it's Mohamed, I don't know if you hear me well.
+
+107
+00:16:08.580 --> 00:16:13.269
+Mohamed Zergaoui: I'm a long-time standard and markup.
+
+108
+00:16:13.380 --> 00:16:17.699
+Mohamed Zergaoui: and modeling expert, I've been around W3C
+
+109
+00:16:17.980 --> 00:16:30.379
+Mohamed Zergaoui: For the last, 20 years or so. Also organizing conferences around XML and markup, conferences, and also teaching courses in
+
+110
+00:16:30.780 --> 00:16:43.569
+Mohamed Zergaoui: in the markup and this area. So, I'm more about the process of the designing, standards, and also around markups and validation and all that stuff.
+
+111
+00:16:45.100 --> 00:16:54.719
+Klaartje De Schepper: And, yeah, we're really graced by Muhammad's presence here, and he has already taught me so much as a mentor, so thank you so much for joining, Muhammad.
+
+112
+00:17:00.930 --> 00:17:02.060
+Mohamed Zergaoui: Thank you for having me.
+
+113
+00:17:02.950 --> 00:17:04.849
+Klaartje De Schepper: I think that leaves… Jerry?
+
+114
+00:17:05.349 --> 00:17:21.119
+Yarille Ortiz (The Linux Foundation): Hi, I'm Jatty. Like John mentioned, I'm part of the LF Energy team here to help you all out, while you get this off the ground, so feel free to contact us, with any of your operational needs or anything like that.
+
+115
+00:17:34.640 --> 00:17:37.119
+Klaartje De Schepper: Thanks, Una. I was muted.
+
+116
+00:17:37.250 --> 00:17:43.330
+Klaartje De Schepper: So, we'll go into a little overview, and then I'm just prepping here, also.
+
+117
+00:17:44.250 --> 00:17:48.510
+Klaartje De Schepper: the actual repository… All right.
+
+118
+00:17:50.310 --> 00:17:58.459
+Klaartje De Schepper: And these materials will be shared with you. LF Energy has done an amazing job setting up infrastructure for us to share all these materials, so…
+
+119
+00:17:58.790 --> 00:18:15.319
+Klaartje De Schepper: that will follow as follow-up after the call. If you are invited on an email address that is not usable as a GitHub email address to connect with, then please let us know which GitHub handle to invite.
+
+120
+00:18:18.030 --> 00:18:20.040
+Klaartje De Schepper: Okay, so our,
+
+121
+00:18:20.500 --> 00:18:39.730
+Klaartje De Schepper: What is ERPEX? It'll be a comprehensive, standardized method for representing utility rate plan data. And again, that naming is a choice. Rate plan data is used as a verbiage often, for example, in the Tesla charging app is just an example.
+
+122
+00:18:40.010 --> 00:18:55.979
+Klaartje De Schepper: there, there's this assumption that customers are on a given plan, which may be a permutation of a tariff, and so that's most clearly how those terms relate. It'll be a machine-accessible format for transparent energy pricing. We have…
+
+123
+00:18:55.980 --> 00:19:06.810
+Klaartje De Schepper: drafted the first version of ERPEX based on semantic web technologies using RDF, OWL, and then Shackle for validation rules.
+
+124
+00:19:06.890 --> 00:19:13.439
+Klaartje De Schepper: We'll show you around our repository with the materials we've… We've generated so far.
+
+125
+00:19:14.640 --> 00:19:32.840
+Klaartje De Schepper: it'll be… the source code will be shared with an Apache 2.0 license, and then the eventual code that we'll develop together as a working group will be licensed as W3. And if anybody from LF Energy who knows much more about this wants to correct me on that.
+
+126
+00:19:33.130 --> 00:19:34.470
+Klaartje De Schepper: Please let me know.
+
+127
+00:19:34.720 --> 00:19:53.569
+Klaartje De Schepper: I am still also learning about these processes. So part of the reason we haven't so far yet shared our materials is that in order for us to hand those over properly, we are passing an IP review, so we're still in that process. So, at this point, could only share the source code privately with you.
+
+128
+00:19:54.340 --> 00:20:02.860
+Klaartje De Schepper: Our key, partnerships for this working group are Flux Taylor as a primary sponsor and with me as technical lead.
+
+129
+00:20:03.150 --> 00:20:20.100
+Klaartje De Schepper: And the National Renewable Energy Laboratory has a utility rate database, and their folks, in particular, Daniel Zimni-Schmidt, has been an amazing collaborator. I'm not sure if, in the meantime, Danny is able to join. Let me look at the list.
+
+130
+00:20:20.530 --> 00:20:25.080
+Klaartje De Schepper: Oh, yes, he is! Hi, Danny. Good morning. Do you want to say hello?
+
+131
+00:20:25.080 --> 00:20:27.930
+Danny Zimny-Schmitt: Yes, yes, good morning. Sorry, I missed the, introduction.
+
+132
+00:20:27.930 --> 00:20:28.460
+Klaartje De Schepper: Okay.
+
+133
+00:20:28.520 --> 00:20:30.720
+Danny Zimny-Schmitt: As Claire mentioned, I…
+
+134
+00:20:30.720 --> 00:20:31.480
+Klaartje De Schepper: It's early for you.
+
+135
+00:20:31.480 --> 00:20:32.050
+Danny Zimny-Schmitt: the…
+
+136
+00:20:32.150 --> 00:20:49.030
+Danny Zimny-Schmitt: utility rate database at NREL. So we've been, collaborating on, good practices for things like rate edge cases or other… or other instances where, rates, for whatever reason, are difficult to… to model in a, you know, standardized machine-readable format.
+
+137
+00:20:52.350 --> 00:21:03.100
+Klaartje De Schepper: Thank you, Demi, and yeah, Demi's quite modest, but he's really quite the expert on the topic. The utility rate database has been in existence for now 15 years, and
+
+138
+00:21:03.170 --> 00:21:12.769
+Klaartje De Schepper: And Danny has built up a great expertise of being familiar with many very complex rate plans across utilities.
+
+139
+00:21:13.030 --> 00:21:14.300
+Klaartje De Schepper: In the US.
+
+140
+00:21:16.230 --> 00:21:25.919
+Klaartje De Schepper: And so we've already started compiling with Annie a list of edge cases, which we'll discuss in a little bit as we go over our to-dos.
+
+141
+00:21:27.520 --> 00:21:33.520
+Klaartje De Schepper: The proposed timeline for this project, and I apologize for this layout.
+
+142
+00:21:34.200 --> 00:21:41.330
+Klaartje De Schepper: My, my assistant wasn't being so good at layout yesterday, I will fix this.
+
+143
+00:21:41.410 --> 00:21:57.340
+Klaartje De Schepper: As we, submitted the proposal in August, we were approved as a working group on, in October, and so now we are here in November, having our first working group meeting.
+
+144
+00:21:57.510 --> 00:22:00.870
+Klaartje De Schepper: We are in the process of working on our first
+
+145
+00:22:00.960 --> 00:22:20.249
+Klaartje De Schepper: Specific… draft specification, which we'll share with the group, this group here on the call first, and then we'll talk about a wider, more broader community launch to try and get others engaged, once we also have an idea of where we need most of the support, so we can reach out to folks who can help us.
+
+146
+00:22:20.620 --> 00:22:23.190
+Klaartje De Schepper: And who may be… who may be interested in joining.
+
+147
+00:22:24.040 --> 00:22:29.580
+Klaartje De Schepper: Eventually, in 26, we're gonna work on reference implementation.
+
+148
+00:22:29.750 --> 00:22:43.430
+Klaartje De Schepper: And then, evolve the standard so that also we can make sure that it is interoperable with other standards, such as, for example, the customer data specification, connected data specification.
+
+149
+00:22:43.670 --> 00:22:50.880
+Klaartje De Schepper: Everest, a standard for, EV interoperability. Green Button Connect will be important.
+
+150
+00:22:51.400 --> 00:23:00.169
+Klaartje De Schepper: And we'll launch pilot programs to demonstrate That the use of this Standard can also have impact.
+
+151
+00:23:00.540 --> 00:23:08.560
+Klaartje De Schepper: And then we'll… we'll keep working on refining the process, eventually working towards finalization of the standard.
+
+152
+00:23:09.480 --> 00:23:17.400
+Klaartje De Schepper: and production deployments. Potentially, we can actually get there sooner, depending on, of course, how much everybody is able to contribute.
+
+153
+00:23:18.230 --> 00:23:21.999
+Klaartje De Schepper: And we're solving this problem of fragmented rate plan data.
+
+154
+00:23:22.250 --> 00:23:35.210
+Klaartje De Schepper: Currently, SCIS vendors for utilities each have their own proprietary system for cost calculations, and there are companies that aggregate data, but each of them also have their own proprietary format.
+
+155
+00:23:35.720 --> 00:23:47.660
+Klaartje De Schepper: And whereas maybe the parameters simply for the cost calculation, the numbers are easy, the complex part on eligibility and different permutations of rate plans hasn't been solved for.
+
+156
+00:23:48.160 --> 00:23:52.940
+Klaartje De Schepper: And, this is resulting in inaccurate cost calculations.
+
+157
+00:23:53.110 --> 00:23:59.509
+Una Smithsimon: Courtney, I just wanted to give you a heads up that the, slide that we can see is still ERPIC's project overview.
+
+158
+00:24:00.160 --> 00:24:03.679
+Klaartje De Schepper: Oh, that is very strange.
+
+159
+00:24:04.530 --> 00:24:07.989
+Klaartje De Schepper: ARPEX project overview is still what you can see.
+
+160
+00:24:08.870 --> 00:24:18.349
+Klaartje De Schepper: Community interest… Is this… What is it that you can see right now? Is this…
+
+161
+00:24:18.540 --> 00:24:24.259
+Una Smithsimon: For me, it's still ERPIC's Project Overview. If anyone else sees anything different, there we go. Okay.
+
+162
+00:24:24.260 --> 00:24:26.960
+Klaartje De Schepper: I think that is because I…
+
+163
+00:24:27.260 --> 00:24:32.100
+Klaartje De Schepper: did the thing where I only shared… the…
+
+164
+00:24:33.320 --> 00:24:36.319
+Klaartje De Schepper: Okay, I'll just share the whole desktop. There we go.
+
+165
+00:24:36.700 --> 00:24:38.040
+Klaartje De Schepper: This should work now.
+
+166
+00:24:38.550 --> 00:24:39.560
+Una Smithsimon: And…
+
+167
+00:24:39.640 --> 00:24:40.900
+Klaartje De Schepper: Okay, great.
+
+168
+00:24:42.870 --> 00:24:47.009
+Klaartje De Schepper: And so… I was showing this Gantt chart.
+
+169
+00:24:47.370 --> 00:24:55.850
+Klaartje De Schepper: That's what I was showing, and thank you for speaking up. If you can't see anything when I'm talking about next, let me know. I also see that…
+
+170
+00:24:56.340 --> 00:24:59.510
+Klaartje De Schepper: Cooper Marcus is able to join us.
+
+171
+00:25:00.420 --> 00:25:08.970
+Klaartje De Schepper: Cooper, I'm trucking through the first part of this presentation here, but we'll take a moment so you can introduce yourself as well.
+
+172
+00:25:12.220 --> 00:25:23.850
+Klaartje De Schepper: So there's lots of integration challenges, making it very costly, that puts up a lot of barriers towards increasing adoption.
+
+173
+00:25:24.000 --> 00:25:27.340
+Klaartje De Schepper: of energy solutions, and there's a low trust.
+
+174
+00:25:27.770 --> 00:25:39.550
+Klaartje De Schepper: And there's, because there's a lack of information, it looks like there's not a lot of customer choice, while in fact, in many cases there is, and that creates inefficiencies, which we don't like.
+
+175
+00:25:40.220 --> 00:25:46.700
+Klaartje De Schepper: So, so far, there's been an amazing community interest, and the presence on this first
+
+176
+00:25:47.080 --> 00:26:00.410
+Klaartje De Schepper: inaugural working group meeting demonstrates that, and again, thank you so much, everybody, for responding, for being engaged. It is so exciting to be working on this open source standard.
+
+177
+00:26:00.980 --> 00:26:05.559
+Klaartje De Schepper: I've heard from a lot of people that they feel it's been a long time coming, and
+
+178
+00:26:05.720 --> 00:26:12.770
+Klaartje De Schepper: really very overdue, and I feel the same way, so really great to feel that community support.
+
+179
+00:26:14.640 --> 00:26:24.279
+Klaartje De Schepper: we have organized ERPEX into First, a set of ontologies in RDF.
+
+180
+00:26:24.400 --> 00:26:29.870
+Klaartje De Schepper: With a core rate plan ontology, then a classification of charges.
+
+181
+00:26:30.000 --> 00:26:37.729
+Klaartje De Schepper: Geography ontology, since there's a lot of location-based data that is related to rate plan data.
+
+182
+00:26:38.030 --> 00:26:44.749
+Klaartje De Schepper: And then an ontology with information about organizations that publish rate plans.
+
+183
+00:26:45.780 --> 00:26:58.989
+Klaartje De Schepper: And that list could evolve, but that's how we've decided to organize it. Our core rate plan ontologies is at about 5,000 lines of code, so we may actually divide that up a little further per discussion with the group.
+
+184
+00:26:59.840 --> 00:27:05.829
+Klaartje De Schepper: And we're using shackle constraints, for data quality validation.
+
+185
+00:27:06.320 --> 00:27:13.750
+Klaartje De Schepper: And we'll, speak on that shortly. And then we are generating the data instances in JSON-LD.
+
+186
+00:27:14.160 --> 00:27:28.170
+Klaartje De Schepper: And then the idea is for API to make that available through a choice of GraphQL or a REST API, but again, as a working group, we may decide otherwise. And that is one of the areas in which we're looking for volunteers.
+
+187
+00:27:29.150 --> 00:27:46.430
+Klaartje De Schepper: again, the integration strategy with the other standards, and thank you again, Joy, for joining, is very important. That rate plan data really is the connecting dots between what can happen in the real world, in networks, at meters, at premises.
+
+188
+00:27:46.530 --> 00:27:55.139
+Klaartje De Schepper: To, what is important for customers, what ends up on their bills, what their accounts are, what their different plan options are.
+
+189
+00:27:55.750 --> 00:28:00.130
+Klaartje De Schepper: And, so that, that mapping from the, that real world.
+
+190
+00:28:00.240 --> 00:28:05.189
+Klaartje De Schepper: physical world to the world of billing is what Rate Plan Data does.
+
+191
+00:28:07.320 --> 00:28:11.799
+Klaartje De Schepper: We have introduced a couple of practical things
+
+192
+00:28:12.080 --> 00:28:21.110
+Klaartje De Schepper: And to deal with rate plan data, such as, for example, having one central rate plan definition that has different snapshot versions over time.
+
+193
+00:28:21.540 --> 00:28:33.820
+Klaartje De Schepper: That's important, for example, for tracking also regulatory approval of each of those versions, and making sure that we always know which of the versions is a successor to another version.
+
+194
+00:28:35.880 --> 00:28:45.469
+Klaartje De Schepper: We have two central concepts, to organize what is often buried in operands.
+
+195
+00:28:45.470 --> 00:28:58.040
+Klaartje De Schepper: in, in computation. So we are trying to make that declarative and encompass all of the logic in explicit statements. So we have eligibility rules.
+
+196
+00:28:58.050 --> 00:29:13.269
+Klaartje De Schepper: That concern the customer profile, or we've actually now… Usage Point Profile is the name of Green Button Connect. We've named it Service Point Profile, since it concerns not just usage, but also services that go in multiple directions.
+
+197
+00:29:13.890 --> 00:29:21.339
+Klaartje De Schepper: And then we, we also have another concept for applicability, where for each charge, we can say explicitly.
+
+198
+00:29:21.440 --> 00:29:27.150
+Klaartje De Schepper: in which conditions that particular charge applies.
+
+199
+00:29:27.490 --> 00:29:39.890
+Klaartje De Schepper: And this solves for a lot of the variation that happens still in applicability of charges below the rate plan level, depending on where a customer is, what type of customer they are.
+
+200
+00:29:40.100 --> 00:29:49.509
+Klaartje De Schepper: Oftentimes, those choices between what's applicable are mutually exclusive, so we've also designed a method for,
+
+201
+00:29:49.750 --> 00:29:58.759
+Klaartje De Schepper: For prompting users for choosing one of those alternatives to make sure that there's no double counting.
+
+202
+00:30:00.190 --> 00:30:09.209
+Klaartje De Schepper: been… We are able to elegantly express rules using logic operators.
+
+203
+00:30:09.370 --> 00:30:19.390
+Klaartje De Schepper: And, standardized condition types. So then we can combine those statements to very intricate… intricately, express
+
+204
+00:30:19.810 --> 00:30:23.039
+Klaartje De Schepper: Who is eligible, and what charges are applicable.
+
+205
+00:30:24.500 --> 00:30:34.640
+Klaartje De Schepper: So, we need volunteers. I'm gonna switch over to show you our repository for where we are.
+
+206
+00:30:35.090 --> 00:30:40.570
+Klaartje De Schepper: Because, as you notice, this, actually…
+
+207
+00:30:40.780 --> 00:30:46.750
+Klaartje De Schepper: Didn't notice because I wasn't able to share the slides in advance. Apologies, I'm a noob.
+
+208
+00:30:46.950 --> 00:30:57.640
+Klaartje De Schepper: working group chair here. So to bring us back to the agendas, I just gave you an overview. We're now going to go into separate sections of our repository.
+
+209
+00:30:58.170 --> 00:31:03.670
+Klaartje De Schepper: And I'd like to, Next steps, briefly.
+
+210
+00:31:03.790 --> 00:31:07.500
+Klaartje De Schepper: Mention work so far done on edge cases.
+
+211
+00:31:07.870 --> 00:31:18.220
+Klaartje De Schepper: But as we're discussing the ontology, if folks have input and are interested in contributing specifically on the ontology development, please speak up.
+
+212
+00:31:18.860 --> 00:31:25.170
+Klaartje De Schepper: And then we're going to review what we've done so far in our shackle rules, which Una has been working on.
+
+213
+00:31:25.800 --> 00:31:38.719
+Klaartje De Schepper: And then it's important that we do get some time to speak about the API. So, with that said, I should make some speed, because that is an important topic, together with our test data discussion, and then…
+
+214
+00:31:38.840 --> 00:31:42.729
+Klaartje De Schepper: Like, recruiting volunteers for a co-chair.
+
+215
+00:31:42.860 --> 00:31:48.970
+Klaartje De Schepper: And a secretariat or task manager for our working group, and discussing our next meeting pattern.
+
+216
+00:31:50.470 --> 00:31:55.520
+Klaartje De Schepper: So, let me pull up… our repository.
+
+217
+00:31:56.630 --> 00:31:59.610
+Klaartje De Schepper: And… Yeah.
+
+218
+00:32:02.650 --> 00:32:12.179
+Klaartje De Schepper: So currently, this lives as a private repository within the Fluxailer organization, but this will be moved over to a repository called ERPEX.
+
+219
+00:32:12.630 --> 00:32:28.500
+Klaartje De Schepper: to an organization called Urbex.org that is hosted via LF Energy, and all of you will have access to that. And I'll create a few different repositories, one dedicated to the standard itself.
+
+220
+00:32:29.100 --> 00:32:33.730
+Klaartje De Schepper: Then we will be, organizing.
+
+221
+00:32:33.840 --> 00:32:47.220
+Klaartje De Schepper: a separate website with user-friendly materials, so that this is not just accessible to folks who are familiar with the GitHub view of the world, but also those who are more new to that.
+
+222
+00:32:47.230 --> 00:32:56.030
+Klaartje De Schepper: So that, also people who are coming to this from a domain expertise, as tariff subject matter experts, can get engaged.
+
+223
+00:32:57.930 --> 00:33:04.580
+Klaartje De Schepper: So, so far, we have, like, I showed several different…
+
+224
+00:33:04.710 --> 00:33:11.909
+Klaartje De Schepper: ontology files over here. As I mentioned, our current ontology, actually, I should…
+
+225
+00:33:12.260 --> 00:33:17.389
+Klaartje De Schepper: Switch over to my massive ontology update branch.
+
+226
+00:33:17.940 --> 00:33:21.689
+Klaartje De Schepper: Which, for some reason, isn't loading. Of course, that's happening now.
+
+227
+00:33:23.900 --> 00:33:24.780
+Klaartje De Schepper: Oh, yeah.
+
+228
+00:33:25.820 --> 00:33:27.919
+Klaartje De Schepper: That is because I renamed this decor.
+
+229
+00:33:28.230 --> 00:33:32.720
+Klaartje De Schepper: So we have our core ontology, well over 5,000 lines right now.
+
+230
+00:33:33.470 --> 00:33:34.980
+Klaartje De Schepper: organized…
+
+231
+00:33:35.250 --> 00:33:45.429
+Klaartje De Schepper: classes, then properties, and enumerations at the end. I've done my best to organize it logically, alphabet… alphabetize things.
+
+232
+00:33:45.560 --> 00:33:48.310
+Klaartje De Schepper: So, again, this will be shared with you.
+
+233
+00:33:48.840 --> 00:33:55.400
+Klaartje De Schepper: as a private repository for now, with your GitHub handle, so you can take a look.
+
+234
+00:33:56.080 --> 00:34:00.039
+Klaartje De Schepper: Until we have made sure that we've passed all the steps in the IP review.
+
+235
+00:34:01.210 --> 00:34:06.359
+Klaartje De Schepper: And I know Mohammed, who is mostly listening in here, has experience with
+
+236
+00:34:06.980 --> 00:34:10.770
+Klaartje De Schepper: RDF, but if anybody else on the group
+
+237
+00:34:11.449 --> 00:34:22.730
+Klaartje De Schepper: who was able to join, has some experience, or is curious to learn more about working with RDF and contributing in our working group to the development of the ontology piece.
+
+238
+00:34:23.739 --> 00:34:24.960
+Klaartje De Schepper: Speak up, please.
+
+239
+00:34:32.150 --> 00:34:33.959
+Klaartje De Schepper: I'm not hearing anybody.
+
+240
+00:34:34.130 --> 00:34:37.539
+Klaartje De Schepper: Jordan, have you worked with RDF before?
+
+241
+00:34:37.750 --> 00:34:39.360
+Klaartje De Schepper: There's… is that…
+
+242
+00:34:39.360 --> 00:34:41.469
+Jordan Hughes (Apple Inc.): I'm actually not familiar with it, no.
+
+243
+00:34:41.870 --> 00:35:00.970
+Klaartje De Schepper: Cool, okay. It's… it's very exciting. We're circling back, really, to the days of Tim Berners-Lee, the semantic web, where everything can be connected to everything. And what's very exciting is that we can be very expressive in our relationships between things.
+
+244
+00:35:01.320 --> 00:35:07.280
+Klaartje De Schepper: And, in the rate plan world, there is a lot of that.
+
+245
+00:35:08.540 --> 00:35:16.690
+Klaartje De Schepper: connectedness. That's often lost when we express data in a more typical tabular format.
+
+246
+00:35:17.300 --> 00:35:35.359
+Klaartje De Schepper: And so that makes this a strong choice. But we realize there is a bit of a learning curve here, probably, for our group, so we'll make sure in our documentation materials to have a good, solid set of links so that folks can start hopping into tutorials.
+
+247
+00:35:35.420 --> 00:35:48.330
+Klaartje De Schepper: And we now have also made our way and learned a lot about RDF in our group. Dave Richardson, who unfortunately wasn't yet able to join because it's super early for him.
+
+248
+00:35:48.360 --> 00:36:01.480
+Klaartje De Schepper: But is quite an expert. So we have support on our side now to keep evolving this, but I warmly invite people to get into this, because it's very exciting, in particular, because…
+
+249
+00:36:01.740 --> 00:36:06.190
+Klaartje De Schepper: Expressing data this way makes it particularly AI-ready.
+
+250
+00:36:06.780 --> 00:36:12.519
+Klaartje De Schepper: The things being connected to other things produce what,
+
+251
+00:36:12.630 --> 00:36:24.910
+Klaartje De Schepper: can be called a knowledge graph, and this can feed into AI, and AI is very good at understanding ontologies and using them to go out into the real world and
+
+252
+00:36:25.080 --> 00:36:26.630
+Klaartje De Schepper: Connect those dots.
+
+253
+00:36:29.690 --> 00:36:34.860
+Klaartje De Schepper: Of course, with proper instructions, I need to say that, that,
+
+254
+00:36:35.260 --> 00:36:50.249
+Klaartje De Schepper: they need to be kept informed on what exactly we need from them, so that in particular is what makes expressing data in this way suitable for our current environment, because it allows us to instruct the AI much more precisely.
+
+255
+00:36:51.660 --> 00:36:56.290
+Klaartje De Schepper: Alright, so… that's the ontology files.
+
+256
+00:36:56.990 --> 00:37:04.690
+Klaartje De Schepper: we then… I'm not expecting, if people aren't familiar with RDF, to be familiar with Shackle.
+
+257
+00:37:04.910 --> 00:37:08.350
+Klaartje De Schepper: And, as you can see, we are actively working on our
+
+258
+00:37:08.470 --> 00:37:17.260
+Klaartje De Schepper: Shackle, I'll just briefly show it. Shackle, you define constraints for…
+
+259
+00:37:17.390 --> 00:37:32.270
+Klaartje De Schepper: what is expressed in the ontology. In the ontology, we're operating from the open world assumption, which means that besides what we're saying can be connected to other things, anything else could also be connected to that.
+
+260
+00:37:32.420 --> 00:37:50.590
+Klaartje De Schepper: So that's too far an open door for those of us familiar with utility data. We are familiar with also how there's a tendency towards freestyling, as it's been called, so we want to constrain that, and the shackle allows us to set up very intricate rules, not just for
+
+261
+00:37:50.680 --> 00:38:04.180
+Klaartje De Schepper: the data fields by itself, but their relationship to other data elements. And there's an ability to use, for example, Sparkle queries to go across different data sets, even.
+
+262
+00:38:04.730 --> 00:38:14.400
+Klaartje De Schepper: And, that's very powerful, Sparkle, but again, another layer of complexity. So for now, we are just keeping fairly simple RDF-expressed
+
+263
+00:38:14.560 --> 00:38:20.000
+Klaartje De Schepper: Shackle rules, that are mostly a field level.
+
+264
+00:38:20.180 --> 00:38:31.930
+Klaartje De Schepper: And again, if folks after learning up on Shackle are interested in joining, particularly this effort to write up our data validation and
+
+265
+00:38:33.810 --> 00:38:46.000
+Klaartje De Schepper: make sure that we have a solid first set of validation rules for our first draft. This will be a really important part of the development process. So again, we're looking for a captain.
+
+266
+00:38:46.250 --> 00:38:48.309
+Klaartje De Schepper: For this work.
+
+267
+00:38:49.300 --> 00:38:58.220
+Klaartje De Schepper: And then, yeah, in particular for the shackle, I believe Flux Taylor is in a good position to keep leading the ontology work, and we are looking for assistance there.
+
+268
+00:38:58.830 --> 00:39:06.039
+Klaartje De Schepper: But for the shackle work, we are looking for somebody who's able to volunteer and take that on and become a shackle captain.
+
+269
+00:39:09.160 --> 00:39:13.330
+Klaartje De Schepper: For our documentation, we have,
+
+270
+00:39:13.900 --> 00:39:18.289
+Klaartje De Schepper: So far, generated diagrams using Mermaid.
+
+271
+00:39:19.210 --> 00:39:26.019
+Klaartje De Schepper: And those diagrams are then used in a set of documentation pages.
+
+272
+00:39:26.610 --> 00:39:31.170
+Klaartje De Schepper: and markup, And then we're also working on…
+
+273
+00:39:31.380 --> 00:39:34.949
+Klaartje De Schepper: A set of user-friendly, pages.
+
+274
+00:39:35.240 --> 00:39:45.190
+Klaartje De Schepper: on a website that'll be ERPX.org, so that our effort is really easy to find online, and that domain will be hosted by LF Energy.
+
+275
+00:39:46.000 --> 00:39:52.610
+Klaartje De Schepper: And so this documentation section is currently undergoing a large
+
+276
+00:39:53.100 --> 00:40:00.379
+Klaartje De Schepper: upgrade as part of the massive ontology update. We're looking to merge, hopefully later this week.
+
+277
+00:40:01.090 --> 00:40:05.210
+Klaartje De Schepper: If not early next week, then we'll share it out with you folks.
+
+278
+00:40:05.470 --> 00:40:18.890
+Klaartje De Schepper: And take a look at what's there. If you're interested in helping out to build out, for example, this user-facing website, you have to decide on a publication mechanism, GitHub Pages or other.
+
+279
+00:40:18.920 --> 00:40:27.809
+Klaartje De Schepper: And again, if someone wants to take this on and be the champion of documentation, we are looking for volunteers.
+
+280
+00:40:29.470 --> 00:40:34.750
+Klaartje De Schepper: I'll take a moment to stop. I know we're… we have 20 minutes left on our agenda.
+
+281
+00:40:35.430 --> 00:40:40.950
+Klaartje De Schepper: Are there any questions from the group so far? Or ideas? Comments?
+
+282
+00:40:45.250 --> 00:40:59.259
+Dai Lin: Hi, Clark! This is Dai. I thank you so much for presenting this. I think it's really exciting, and there's a lot of new technical knowledge to be gained, definitely by me, and sounds like a few others in this group.
+
+283
+00:40:59.280 --> 00:41:09.460
+Dai Lin: So I was just wondering if we can maybe talk through how you envision all the pieces coming together, right? Because there's that going to be that initial,
+
+284
+00:41:09.460 --> 00:41:23.640
+Dai Lin: Learning barrier, but then also, like, how do we direct our learning such that it's going to be… we're able to contribute quickly, and to also collaborate with other people who are owning other pieces.
+
+285
+00:41:25.030 --> 00:41:28.149
+Klaartje De Schepper: Totally. Thanks for… for bringing that up.
+
+286
+00:41:28.600 --> 00:41:34.939
+Klaartje De Schepper: Like I said, I think what we are going to do is add to our documentation that was shared with the group.
+
+287
+00:41:35.250 --> 00:41:41.969
+Klaartje De Schepper: A curriculum of a basic set of learning materials for folks to get started with.
+
+288
+00:41:42.510 --> 00:41:47.090
+Klaartje De Schepper: For folks who are already very familiar with JSON,
+
+289
+00:41:47.280 --> 00:42:02.310
+Klaartje De Schepper: the test cases in JSON-LD will probably be the most accessible way for starting to get familiar with the data structure. So, as part of the documentation, we'll have some test cases for you to get started with.
+
+290
+00:42:02.580 --> 00:42:12.360
+Klaartje De Schepper: And then, as we're learning new things together and working on these, separate pieces,
+
+291
+00:42:12.910 --> 00:42:19.840
+Klaartje De Schepper: I think we can… possibly use… Our first working group sessions.
+
+292
+00:42:20.310 --> 00:42:36.190
+Klaartje De Schepper: to circle back with folks on each of these topics per what they've been able to catch up on, what they've reviewed. Maybe in the meantime, people have already started to actively write comments on the materials that are… that are shared.
+
+293
+00:42:36.780 --> 00:42:46.549
+Klaartje De Schepper: and then focus each of our first meetings on each of these topics. So, for example, our first next meeting could be…
+
+294
+00:42:46.720 --> 00:42:56.380
+Klaartje De Schepper: Discussing, in particular, the ontology And decisions around, for example, breaking up large files into smaller pieces.
+
+295
+00:42:57.450 --> 00:43:02.859
+Klaartje De Schepper: And then the next meeting after that, we could focus on the shackle rules.
+
+296
+00:43:03.730 --> 00:43:17.629
+Klaartje De Schepper: And then as part of those meetings, if folks have core questions about the technology and we find, oh, really, we need to take a step back and actually dedicate some time to learning about this as a community, we will do that.
+
+297
+00:43:18.370 --> 00:43:19.660
+Klaartje De Schepper: How does that sound?
+
+298
+00:43:21.350 --> 00:43:23.430
+Dai Lin: That makes a ton of sense. Thank you.
+
+299
+00:43:24.110 --> 00:43:25.180
+Klaartje De Schepper: You're welcome.
+
+300
+00:43:25.410 --> 00:43:42.279
+Klaartje De Schepper: And it'll be really… we're then also dog-fooding our learning materials, right? Because everybody in the community who we're introducing this to, for a lot of folks, this will be new. JSON-LD has been in use quite a bit. People are…
+
+301
+00:43:42.450 --> 00:43:54.529
+Klaartje De Schepper: probably mostly familiar with the use of schema.org as an ontology that informs JSON-LD. For example, it's used as metadata for data.gov.
+
+302
+00:43:55.290 --> 00:44:05.449
+Klaartje De Schepper: So, hopefully we'll find some folks who can tie in from there, but I imagine a lot of folks will be coming more from the, from the domain side.
+
+303
+00:44:07.720 --> 00:44:17.210
+Klaartje De Schepper: And, the… what is not yet in this ontology, but I'll… I'm sorry, in this repository, is the…
+
+304
+00:44:17.370 --> 00:44:18.670
+Klaartje De Schepper: test data.
+
+305
+00:44:19.100 --> 00:44:31.100
+Klaartje De Schepper: So… so far… and so I've actually skipped over the API part, but let's talk about test data first, because we have a basic set, we have a set of edge cases.
+
+306
+00:44:32.220 --> 00:44:33.790
+Klaartje De Schepper: Denny has…
+
+307
+00:44:34.340 --> 00:44:41.789
+Klaartje De Schepper: kindly taken on the task of focusing on edge cases, which makes sense for him as a domain expert, Danny.
+
+308
+00:44:41.970 --> 00:44:43.750
+Klaartje De Schepper: If you can report
+
+309
+00:44:43.900 --> 00:44:51.199
+Klaartje De Schepper: What so far, our, your, your take is after studying some of the edge cases you had put together.
+
+310
+00:44:55.150 --> 00:44:56.700
+Danny Zimny-Schmitt: Yeah, I'd be happy to…
+
+311
+00:44:56.840 --> 00:45:03.879
+Danny Zimny-Schmitt: Provide a couple of examples of… of edge cases that… these are specifically ones that we don't have the
+
+312
+00:45:04.260 --> 00:45:10.460
+Danny Zimny-Schmitt: proper capabilities to model in the URDB, and if we can find a way to…
+
+313
+00:45:10.610 --> 00:45:20.690
+Danny Zimny-Schmitt: have the ERPEX tool correctly model them, that would be great, but some of these are a little bit difficult. A couple of the common ones we see are…
+
+314
+00:45:21.890 --> 00:45:28.870
+Danny Zimny-Schmitt: like, demand ratchet charges. So this is… an example of this is when
+
+315
+00:45:29.780 --> 00:45:35.110
+Danny Zimny-Schmitt: A peak demand charge is determined not as a specific charge per kilowatt, but
+
+316
+00:45:35.260 --> 00:45:47.239
+Danny Zimny-Schmitt: a phrase, like, the greatest demand registered during the peak hours of this… of the month, but not less than 80% of the peak demand of the 11 preceding months, or something like that. So it's…
+
+317
+00:45:47.660 --> 00:45:48.050
+Klaartje De Schepper: That was beautiful.
+
+318
+00:45:48.050 --> 00:46:06.359
+Danny Zimny-Schmitt: There are two factors. Yeah, there are, like, two factors involved in determining a charge, so it's not as simple as inputting it from a given rate sheet. There are also a couple of examples of, like, a higher of X and Y example.
+
+319
+00:46:06.550 --> 00:46:12.950
+Danny Zimny-Schmitt: You know, it's like, it should be the higher of the on-peak measured demand, or the firm contract demand multiplied by
+
+320
+00:46:13.070 --> 00:46:17.449
+Danny Zimny-Schmitt: The minimum demand factor, or… you know, so there are just a lot of…
+
+321
+00:46:18.180 --> 00:46:21.770
+Danny Zimny-Schmitt: Situations where it's not a… it's not a fixed…
+
+322
+00:46:22.030 --> 00:46:27.350
+Danny Zimny-Schmitt: Cost, it's a… it's like a… it's essentially a formula, of an either-or.
+
+323
+00:46:27.700 --> 00:46:28.240
+Danny Zimny-Schmitt: So…
+
+324
+00:46:28.240 --> 00:46:29.559
+Klaartje De Schepper: Right. Yeah.
+
+325
+00:46:29.720 --> 00:46:36.190
+Klaartje De Schepper: Yeah, and we'll… we'll start working through that list of edge cases from our team.
+
+326
+00:46:36.190 --> 00:46:39.239
+Danny Zimny-Schmitt: trying to express them in the JSON LD.
+
+327
+00:46:39.240 --> 00:46:47.269
+Klaartje De Schepper: Given the learning curve for the rest of the team, I'm not currently expecting that others will be able to join that effort yet.
+
+328
+00:46:47.690 --> 00:46:58.889
+Klaartje De Schepper: But we will need volunteers to, because people… other folks will start volleying in these edge cases, right? And they are the ones we want to focus on for our design.
+
+329
+00:46:59.040 --> 00:47:11.209
+Klaartje De Schepper: And we do want to allow for all of this rich complexity. We all wish that it wouldn't exist, but out there in the real world, these rules do exist, so if we want to calculate cost, we have to be able to express them.
+
+330
+00:47:11.670 --> 00:47:18.060
+Klaartje De Schepper: And yet they are as… you know, Denny's examples illustrate. Pretty out there.
+
+331
+00:47:18.700 --> 00:47:26.149
+Klaartje De Schepper: I hopped quickly also over the status of the shackle rules. Una, is there anything?
+
+332
+00:47:26.440 --> 00:47:29.130
+Klaartje De Schepper: that I forgot to mention about that.
+
+333
+00:47:30.800 --> 00:47:49.299
+Una Smithsimon: No, I don't think so. I think it's spot on. Right now, we have a functional shackle that is able to validate our data, and we also have hopes for more complex constraints that can be modeled using Sparkle that we hope to have some support to build.
+
+334
+00:47:49.880 --> 00:48:05.900
+Klaartje De Schepper: Yeah. And so the rules right now, we actually can write them up in essentially pseudocode. So what we could do is, rather than exposing everybody to the gnarly bits and pieces of this new syntax, is also make this
+
+335
+00:48:06.110 --> 00:48:13.910
+Klaartje De Schepper: more human-readable form of those rules available. We'll note that, Una, as a takeaway item for us.
+
+336
+00:48:14.210 --> 00:48:23.309
+Klaartje De Schepper: To get over that learning curve and start understanding more, about the design without having to understand all of the syntax.
+
+337
+00:48:23.310 --> 00:48:47.190
+Una Smithsimon: Absolutely, and I think, I think a good approach, as you were pointing out, just looking at the test data, can be a really good way to get acquainted with this format. Looking at the shackle, I think, can seem intimidating, but if you're looking at it next to the W3C standard, definitions are really very clearly laid out, and so hopefully just diving right in, allows some of you to get a little bit more acquainted with it.
+
+338
+00:48:48.010 --> 00:48:53.430
+Una Smithsimon: Seems intimidating, but… is digestible.
+
+339
+00:48:54.520 --> 00:48:58.589
+Klaartje De Schepper: So I'm noting here, we have, I think…
+
+340
+00:48:58.710 --> 00:49:07.160
+Klaartje De Schepper: Yeah, we have 15 minutes still, so we have… we have some space still to discuss the API. That's, of course, a really important topic.
+
+341
+00:49:07.410 --> 00:49:17.029
+Klaartje De Schepper: We're gonna now have data representation, but the X, right? The X in our working group name means that we want to exchange it.
+
+342
+00:49:17.400 --> 00:49:23.320
+Klaartje De Schepper: So, who in the group has experience with API design?
+
+343
+00:49:32.280 --> 00:49:40.479
+Dai Lin: My company name is Utility API, so I would like to say that. I have some experience with API design.
+
+344
+00:49:40.480 --> 00:49:43.739
+Klaartje De Schepper: I was hoping for you to pipe-pip, is this? Thank you, guys.
+
+345
+00:49:44.810 --> 00:49:46.199
+Klaartje De Schepper: What are your thoughts?
+
+346
+00:49:47.770 --> 00:49:49.239
+Dai Lin: Sorry, what was the question?
+
+347
+00:49:49.390 --> 00:49:51.999
+Klaartje De Schepper: What are your thoughts on,
+
+348
+00:49:53.700 --> 00:49:57.019
+Klaartje De Schepper: on API design, I know that the,
+
+349
+00:49:57.990 --> 00:50:15.140
+Klaartje De Schepper: The output format is not yet familiar to you as a JSON flavor, but there's a JSON output from the Utility API API, and… and your company has also good practice of putting together solid API documentation.
+
+350
+00:50:15.550 --> 00:50:21.599
+Klaartje De Schepper: Is it… would it be possible for… for you to help, contribute to this part of the effort?
+
+351
+00:50:21.720 --> 00:50:31.519
+Dai Lin: Oh yeah, absolutely. I think it's definitely, as with any good design process, right, it's understanding both the input and output, and the requirements by the end users.
+
+352
+00:50:31.580 --> 00:50:48.300
+Dai Lin: And I think, drawing out… drawing up those requirements, we can do as a group, and then as we learn more about, Shackle and RDF, we can, you know, make sure that they are speaking to each other correctly.
+
+353
+00:50:48.650 --> 00:50:49.600
+Klaartje De Schepper: Awesome.
+
+354
+00:50:49.600 --> 00:51:01.239
+Dai Lin: And then I think there's so many tools now that are dynamic and can, you know, automatically generate API documentation that we can just leverage one of the many tools out there.
+
+355
+00:51:03.230 --> 00:51:15.809
+Klaartje De Schepper: Are you willing to take on a first draft of the requirements? Even just an outline of the format of how we want to organize the requirements would be great for our next meeting.
+
+356
+00:51:15.810 --> 00:51:25.970
+Dai Lin: can't… I don't want to commit to that right now, just to be perfectly frank, but I do want to better understand the whole… like, I'm in… I'm here because I'm interested in the whole.
+
+357
+00:51:25.970 --> 00:51:26.720
+Klaartje De Schepper: Sure thing.
+
+358
+00:51:26.720 --> 00:51:35.220
+Dai Lin: initiative that we're trying to achieve, right? So, I'm very much a holistic approach type of person, so I don't want to, like.
+
+359
+00:51:35.220 --> 00:51:35.620
+Klaartje De Schepper: understood.
+
+360
+00:51:35.620 --> 00:51:38.119
+Dai Lin: To one area, if that's okay.
+
+361
+00:51:38.120 --> 00:51:54.959
+Klaartje De Schepper: Very… absolutely, absolutely. We all are here to contribute what we can, and I appreciate just you being present now and listening, and then thinking about what that is, and what that looks like. I, you know, I'm… as a chair, I'm in a position to
+
+362
+00:51:55.070 --> 00:52:11.829
+Klaartje De Schepper: as soon as possible, get as many hands on back as possible, but I understand that this is a lot of new information. So, we can… and I think… but your point about, prioritizing first, obviously, writing up the requirements for the API makes a lot of sense. Others in the group.
+
+363
+00:52:11.970 --> 00:52:14.630
+Klaartje De Schepper: with an API design background.
+
+364
+00:52:22.760 --> 00:52:25.829
+Neil Williams: I'm happy to be involved in API design stuff.
+
+365
+00:52:26.750 --> 00:52:28.430
+Klaartje De Schepper: Great. Thanks, Neil.
+
+366
+00:52:28.860 --> 00:52:33.829
+Klaartje De Schepper: That would be, yeah, you and… and I both have,
+
+367
+00:52:34.150 --> 00:52:39.999
+Klaartje De Schepper: Very deep background in this, so that would be amazing to have… to have you contribute.
+
+368
+00:52:40.560 --> 00:52:45.309
+Klaartje De Schepper: And if either of you has some ideas on how to approach, like, a first
+
+369
+00:52:45.560 --> 00:52:51.850
+Klaartje De Schepper: Draft of how we should structure the requirements, or have an example of,
+
+370
+00:52:52.170 --> 00:52:59.259
+Klaartje De Schepper: API requirements of which you like the format, that would be a great start, and your feedback is appreciated.
+
+371
+00:53:00.950 --> 00:53:08.110
+Klaartje De Schepper: Alright, then we have a bit of time then to discuss our next steps.
+
+372
+00:53:09.500 --> 00:53:13.069
+Klaartje De Schepper: In order for us to run this working group.
+
+373
+00:53:13.400 --> 00:53:19.520
+Klaartje De Schepper: We are looking for help with some of the project administration.
+
+374
+00:53:20.200 --> 00:53:37.089
+Klaartje De Schepper: And so, as chairs, we want to be able to focus on the content of the work and driving that forward, and we are hoping that to gather a volunteer to help us be a co-chair and help us coordinate the meetings.
+
+375
+00:53:37.270 --> 00:53:53.400
+Klaartje De Schepper: And, that could be the same person as, or a different person from, specifically, a secretary and task manager who, for example, helps us make sure that meeting notes get reviewed, post-meeting and distributed.
+
+376
+00:53:53.740 --> 00:54:04.659
+Klaartje De Schepper: And keeps a close eye on our task to make sure that nothing slips in between the cracks, and that things carry over from meeting to meeting.
+
+377
+00:54:08.890 --> 00:54:17.859
+Klaartje De Schepper: anybody so far who would be willing to volunteer for this level of project administration support. And we can speak about
+
+378
+00:54:18.200 --> 00:54:24.849
+Klaartje De Schepper: what that looks like in time commitment. That'll also, of course, depend on our meeting frequency, which we'll discuss next.
+
+379
+00:54:30.270 --> 00:54:36.450
+Klaartje De Schepper: Okay, no volunteers so far. I understand this is a first meeting, you might want to think about it.
+
+380
+00:54:36.960 --> 00:54:41.629
+Klaartje De Schepper: And you can reach out to me directly if this is something that interests you. I'm…
+
+381
+00:54:41.880 --> 00:54:46.539
+Klaartje De Schepper: Very willing, of course, to touch base separately and discuss
+
+382
+00:54:46.820 --> 00:54:52.730
+Klaartje De Schepper: And really grateful for any contributions and support in this area in particular.
+
+383
+00:54:53.020 --> 00:54:58.960
+Klaartje De Schepper: as a small business owner, I want to be able to distribute my project management
+
+384
+00:54:59.630 --> 00:55:08.030
+Klaartje De Schepper: Efforts and focus for this effort as much as possible on the work on the ontology itself to drive that forward.
+
+385
+00:55:08.160 --> 00:55:13.480
+Klaartje De Schepper: So, anybody who can support, from this side would be much appreciated.
+
+386
+00:55:15.170 --> 00:55:17.699
+Klaartje De Schepper: Yeah, then meeting frequency.
+
+387
+00:55:18.350 --> 00:55:26.560
+Klaartje De Schepper: I've spoken about this with some folks who have deep experience in standards development.
+
+388
+00:55:26.880 --> 00:55:36.099
+Klaartje De Schepper: And while a monthly meeting is advised as cadence on the regular in the beginning, since we have so much to evolve.
+
+389
+00:55:36.490 --> 00:55:39.660
+Klaartje De Schepper: I've been advised to hold bi-weekly meetings.
+
+390
+00:55:40.700 --> 00:55:47.009
+Klaartje De Schepper: what are, folks' thoughts on bi-weekly meetings, starting mid-January?
+
+391
+00:55:50.660 --> 00:55:52.549
+Bruce Nordman: Sounds like a good cadence to me.
+
+392
+00:55:53.870 --> 00:55:54.550
+Klaartje De Schepper: Okay.
+
+393
+00:55:55.020 --> 00:55:57.850
+Klaartje De Schepper: And then if folks miss meetings, I…
+
+394
+00:55:58.000 --> 00:56:14.520
+Klaartje De Schepper: Definitely want to set it up so that if you miss a meeting, you could still fully participate. We'll have solid meeting minutes. Obviously, we can work asynchronously through GitHub. We'll likely start using GitHub issues for task management, particularly of
+
+395
+00:56:15.330 --> 00:56:19.800
+Klaartje De Schepper: Tasks that directly impact some of our repository materials.
+
+396
+00:56:21.430 --> 00:56:28.030
+Klaartje De Schepper: And so if… if you're… if you're not able to attend, that you still… you'd still get to participate and be in the loop.
+
+397
+00:56:29.480 --> 00:56:34.900
+Klaartje De Schepper: Are… is there anybody who says now, Bi-weekly is a terrible idea.
+
+398
+00:56:40.090 --> 00:56:41.439
+Klaartje De Schepper: It's very quiet.
+
+399
+00:56:41.630 --> 00:56:50.190
+Klaartje De Schepper: No, okay, so we'll go bi-weekly then. And then the time of day, this was very early for California folks, so…
+
+400
+00:56:50.890 --> 00:57:01.759
+Klaartje De Schepper: Jordan, how do you feel about if we make the meeting start at 11 or 12 Eastern Standard Time? Is that better for you?
+
+401
+00:57:02.680 --> 00:57:11.459
+Jordan Hughes (Apple Inc.): Yeah, definitely, I think, better. It's at 7am out here on the West Coast, so I think it would be an official just another hour or two.
+
+402
+00:57:11.870 --> 00:57:19.970
+Klaartje De Schepper: Yeah, and we don't have any folks from Europe, which I wanted to allow for, but if we would do noon, it's still not…
+
+403
+00:57:20.800 --> 00:57:25.509
+Klaartje De Schepper: a super… Late for them. It's still 6 o'clock.
+
+404
+00:57:26.080 --> 00:57:28.290
+Klaartje De Schepper: John, do you have,
+
+405
+00:57:28.520 --> 00:57:34.080
+Klaartje De Schepper: would you say, like, don't… don't make it noon, because that's too late for the Europeans? What are your thoughts on that?
+
+406
+00:57:34.580 --> 00:57:39.240
+John Mertic (The Linux Foundation): So noon Pacific is what you're saying?
+
+407
+00:57:40.130 --> 00:57:48.649
+Klaartje De Schepper: No, noon Eastern, which would be 9 Pacific, but it would be 6 p.m. for, for example, folks in the Netherlands.
+
+408
+00:57:48.980 --> 00:57:54.400
+John Mertic (The Linux Foundation): It just sort of all depends on what your group is, it's…
+
+409
+00:57:54.620 --> 00:57:59.930
+John Mertic (The Linux Foundation): You're probably on your borderline of it,
+
+410
+00:58:00.450 --> 00:58:06.059
+John Mertic (The Linux Foundation): You know, maybe an hour earlier might be a little bit easier for those, just on my experience, but…
+
+411
+00:58:06.730 --> 00:58:12.779
+John Mertic (The Linux Foundation): Again, also, this is only a once every two weeks meeting, I think is what your plan, you said, is right?
+
+412
+00:58:13.080 --> 00:58:14.469
+Klaartje De Schepper: Yeah, yeah.
+
+413
+00:58:14.470 --> 00:58:18.990
+John Mertic (The Linux Foundation): So, I mean, it might be something folks are willing to plan around, so,
+
+414
+00:58:19.490 --> 00:58:31.080
+John Mertic (The Linux Foundation): Yeah, I mean, I would… I would at least work with… I would just at least consult with the folks that you plan to be there, and see if that's comfortable with them, just because it's… you're… to your point, it's kind of on the border there.
+
+415
+00:58:31.970 --> 00:58:41.560
+Klaartje De Schepper: It's kind of on the border, yeah, exactly. And so, maybe we can do it on a half hour and strike a balance and say 11.30 Eastern time?
+
+416
+00:58:41.710 --> 00:58:45.510
+Klaartje De Schepper: Which would still be, like, technically right before 6pm.
+
+417
+00:58:49.440 --> 00:58:53.230
+Klaartje De Schepper: Would that work for you, Jordan? That's 8.30 for you in the morning?
+
+418
+00:58:53.640 --> 00:59:02.049
+Jordan Hughes (Apple Inc.): Yeah, I like that. I think that's also similar to, like, what some of the other working groups do, like CDS. I think it's around the 8, 8.30 something.
+
+419
+00:59:02.420 --> 00:59:09.929
+Klaartje De Schepper: Okay, all right, so we're… we'll do 11.30 then. Is there a day of the week that has preference for folks?
+
+420
+00:59:10.330 --> 00:59:17.010
+Klaartje De Schepper: This was a Wednesday. I know the connected data specification meets on Thursdays, mornings.
+
+421
+00:59:18.250 --> 00:59:21.610
+Klaartje De Schepper: I would like to probably do a Wednesday or a Thursday.
+
+422
+00:59:22.190 --> 00:59:28.099
+Klaartje De Schepper: Here? Anybody who cannot make a Wednesday or Thursday, 11.30?
+
+423
+00:59:29.480 --> 00:59:31.930
+Dai Lin: Wednesday is highly preferable for me.
+
+424
+00:59:33.250 --> 00:59:35.189
+Klaartje De Schepper: Alright, well, Len Wednesday it is.
+
+425
+00:59:36.230 --> 00:59:39.560
+Klaartje De Schepper: Can anybody second, so we can…
+
+426
+00:59:40.490 --> 00:59:54.040
+Klaartje De Schepper: I think maybe, John, I need some help here. I think we're moving to have acceptance of our new meeting time to be bi-weekly starting mid-January on Wednesday at 1130.
+
+427
+00:59:54.530 --> 00:59:58.250
+Klaartje De Schepper: Does somebody now need to second that so that it can be approved?
+
+428
+00:59:58.470 --> 01:00:03.090
+John Mertic (The Linux Foundation): I mean, as long as you have a consensus of this group, I think is totally fine.
+
+429
+01:00:03.290 --> 01:00:04.030
+Klaartje De Schepper: Okay.
+
+430
+01:00:06.050 --> 01:00:08.130
+John Mertic (The Linux Foundation): Anybody who doesn't like that time?
+
+431
+01:00:11.650 --> 01:00:16.379
+John Mertic (The Linux Foundation): Okay. Yeah, we can, Jadi can help get this all situated for you, and get the invites out.
+
+432
+01:00:16.380 --> 01:00:24.510
+Klaartje De Schepper: Excellent, excellent. I think I'm gonna get a foam hammer as chair, so that when we approve something, we can approve it.
+
+433
+01:00:24.510 --> 01:00:25.560
+John Mertic (The Linux Foundation): There you go.
+
+434
+01:00:25.890 --> 01:00:33.030
+Klaartje De Schepper: Great! So, we have 5 minutes left. Anybody who… who wants to…
+
+435
+01:00:33.280 --> 01:00:48.690
+Klaartje De Schepper: share some thoughts before… you know, we're going to have a long break, and that's intentional, of course, to leave space for the holidays, and also to leave space for us to finish our IP review, give you time to review our materials.
+
+436
+01:00:48.940 --> 01:00:55.100
+Klaartje De Schepper: Anything you want us… to… to share with the group before we meet again in January.
+
+437
+01:00:59.760 --> 01:01:01.819
+Cooper Marcus: Hello, this is Cooper.
+
+438
+01:01:01.820 --> 01:01:04.450
+Klaartje De Schepper: Yes, yes, thank you, I'm so sorry.
+
+439
+01:01:04.450 --> 01:01:04.810
+Cooper Marcus: It's okay.
+
+440
+01:01:04.810 --> 01:01:06.050
+Klaartje De Schepper: Thank you for speaking up nicely.
+
+441
+01:01:06.050 --> 01:01:18.990
+Cooper Marcus: No problem. Yeah, yeah. I'm Cooper, I'm the chief quitter at Quit Carbon. We produce software and offer a no-cost service that makes it cheaper, easier, faster, better.
+
+442
+01:01:19.080 --> 01:01:33.489
+Cooper Marcus: for folks to get their homes off of fossil fuel and adopt heat pumps, induction stoves, EV chargers, solar, etc. I probably have at least heard of some of the others in this group. We are customers of Utility API.
+
+443
+01:01:33.590 --> 01:01:38.979
+Cooper Marcus: I'm semi-technical, mostly not, and I have a question about…
+
+444
+01:01:39.110 --> 01:01:47.879
+Cooper Marcus: very rough idea of timelines. One of our projects is funded by the California Energy Commission to develop open source software for making
+
+445
+01:01:47.980 --> 01:02:00.730
+Cooper Marcus: home electrification planning easier, cheaper, faster. And that project has a need for accessing utility rates for residential users in California.
+
+446
+01:02:00.910 --> 01:02:09.649
+Cooper Marcus: Can you just make a total wild guess, no commitment, as to when we might be able to do so via…
+
+447
+01:02:09.650 --> 01:02:25.710
+Cooper Marcus: this, project, this… this rate exchange project, and the reason I'm asking is because that CEC-funded project is on a, you know, couple-year timeline, and so we're thinking through architecture, what are going to be our sources of the various data we need?
+
+448
+01:02:25.780 --> 01:02:30.740
+Cooper Marcus: And it would be awesome if we could use this for our rate data instead of having to build our own
+
+449
+01:02:30.830 --> 01:02:33.860
+Cooper Marcus: rate data system. Thanks.
+
+450
+01:02:34.170 --> 01:02:42.910
+Klaartje De Schepper: Great, yeah, thank you for… for piping up. So, just to be clear, we're not building a new database.
+
+451
+01:02:43.260 --> 01:02:49.380
+Klaartje De Schepper: of rate plan data. We are, as FluxTailer, working on SaaS solutions for…
+
+452
+01:02:49.570 --> 01:02:59.619
+Klaartje De Schepper: for a SaaS solution for rate plan publication, and for… for hosting, an ERPX, instance, so ERPX would… will be the foundation
+
+453
+01:02:59.980 --> 01:03:09.920
+Klaartje De Schepper: of that, and I think there's also rules, I think, for each of us, and we'll share those with the group. We want to really focus on our open source collaborative
+
+454
+01:03:10.200 --> 01:03:19.150
+Klaartje De Schepper: effort here, so I'll limit myself to that in terms of what I share about our proprietary software development. But the,
+
+455
+01:03:19.820 --> 01:03:34.240
+Klaartje De Schepper: When it would be available first would greatly depend on how quickly we're able to get to a point where we, as a working group, feel comfortable to say, okay, this is now good enough for production.
+
+456
+01:03:34.540 --> 01:03:37.330
+Klaartje De Schepper: Such that we can then…
+
+457
+01:03:37.830 --> 01:03:46.320
+Klaartje De Schepper: rely on that as a basis, but if you want to chat offline, we could, in a pilot format, probably get something going
+
+458
+01:03:46.590 --> 01:03:47.950
+Klaartje De Schepper: Pretty quickly.
+
+459
+01:03:48.470 --> 01:03:58.849
+Klaartje De Schepper: And I know in California there are several efforts with quite complex rate plans. The non-billing tariff, for example, is one that we're looking at.
+
+460
+01:03:59.270 --> 01:04:02.449
+Klaartje De Schepper: The net, so the…
+
+461
+01:04:04.080 --> 01:04:22.459
+Klaartje De Schepper: that NBT tariff. I think I've got the acronym wrong. But yeah, so there's a bunch of developments there, so thank you for piping up, and thank you for joining also. In addition to rate plan data, I imagine that energy programs are also an important part of the data sets that you're looking at.
+
+462
+01:04:22.590 --> 01:04:31.729
+Klaartje De Schepper: And there's a node collective effort that was working on that, so we're looking to make sure to… make sure that our work can tie into that, to not duplicate those efforts.
+
+463
+01:04:32.020 --> 01:04:38.520
+Cooper Marcus: Oh, yeah, we're quite familiar with that effort. From our perspective, it seems like that effort has ceased.
+
+464
+01:04:38.710 --> 01:04:39.919
+Cooper Marcus: And we…
+
+465
+01:04:39.920 --> 01:04:40.460
+Klaartje De Schepper: Okay.
+
+466
+01:04:40.460 --> 01:04:47.830
+Cooper Marcus: we develop our own, incentive database, we call it. So, great, thank you for the answer, I appreciate it.
+
+467
+01:04:48.120 --> 01:04:49.779
+Klaartje De Schepper: Of course, yeah, and let's touch base.
+
+468
+01:04:50.200 --> 01:05:02.229
+Klaartje De Schepper: Okay. Yeah, so I think that we have… we have now introduced everybody, and we are at the top of the hour. Anybody else? Any questions or feedback?
+
+469
+01:05:02.570 --> 01:05:05.450
+Klaartje De Schepper: Before our… Holiday recess.
+
+470
+01:05:06.490 --> 01:05:17.350
+Bruce Nordman: Yeah, this is Bruce. I'll just add that, I work on the OpenADR3 protocol. I'm looking forward to a document later on which defines how to translate prices from
+
+471
+01:05:17.500 --> 01:05:19.940
+Bruce Nordman: this system into OpenADR3.
+
+472
+01:05:20.420 --> 01:05:23.089
+Bruce Nordman: Down, down the road. So, thank you.
+
+473
+01:05:23.090 --> 01:05:30.279
+Klaartje De Schepper: So, yeah, yeah, for sure. There will be mappings, and that is an important part, that interoperability.
+
+474
+01:05:30.280 --> 01:05:30.870
+Bruce Nordman: Yeah.
+
+475
+01:05:31.550 --> 01:05:32.250
+Klaartje De Schepper: keepers.
+
+476
+01:05:33.390 --> 01:05:38.519
+Klaartje De Schepper: All right, so then I'll close off our first inaugural.
+
+477
+01:05:38.520 --> 01:05:42.299
+Una Smithsimon: Perfect's meeting. Thank you again, everybody, for joining.
+
+478
+01:05:42.300 --> 01:05:49.849
+Klaartje De Schepper: We will be sharing materials via GitHub, and there will also be a public website
+
+479
+01:05:50.290 --> 01:05:55.549
+Klaartje De Schepper: Hopefully before the next time our working group gathers.
+
+480
+01:05:56.850 --> 01:06:00.250
+Klaartje De Schepper: Thank you very much for joining, and have a lovely day.
+
+481
+01:06:00.250 --> 01:06:01.349
+John Mertic (The Linux Foundation): You too, take care. Bye-bye.
+
+482
+01:06:01.350 --> 01:06:02.350
+Klaartje De Schepper: Thank you. Bye-bye.
+
