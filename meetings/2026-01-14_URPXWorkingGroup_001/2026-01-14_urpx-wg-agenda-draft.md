@@ -16,20 +16,26 @@
 
 
 
+## Meeting Notes
 
-| 1| Quick Hellos | Quick Recap, welcome new participants | Klaartje DS|
 
-| 2 | URPX Status Update | Github repository review, semantic web learning updates | Klaartje DS |
+### | 1| Quick Hellos | Quick Recap, welcome new participants 
+
+### | 2 | URPX Status Update | Github repository review, semantic web learning updates 
  
-| 3 | Ontology | a)Core element introduction, b)logic expression for eligibility | Klaartje DS, All|
+### | 3 | Ontology | 
+a)Core element introduction
 
-| 4 | SHACL Rules | Approach and status | Klaartje DS |
+b)logic expression for eligibility 
 
-| 5 | API | Design approach, volunteers | All |  
+### | 4 | SHACL Rules | Approach and status 
 
-| 6 | Documentation | Status, materials introduction, WebVOWL implementation volunteer 
+### | 5 | API | Design approach, volunteers 
+
+### | 6 | Documentation | Status, materials introduction, WebVOWL implementation volunteer 
+
 see example implementation: https://service.tib.eu/webvowl/
 
-| 7 | Test Data |  Select mock vs. actual data approach, decide next steps, volunteers | All | 
+### | 7 | Test Data |  Select mock vs. actual data approach, decide next steps, volunteers 
 
-| 8 | Other Business & Next Steps | Volunteers for co-chair, secretary, community outreach| All|
+### | 8 | Other Business & Next Steps | Volunteers for co-chair, secretary, community outreach
