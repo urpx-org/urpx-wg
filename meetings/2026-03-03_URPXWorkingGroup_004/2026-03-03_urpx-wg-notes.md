@@ -18,6 +18,8 @@
 
 ## Meeting Notes
 
+Zoom summary available at: https://zoom-lfx.platform.linuxfoundation.org/meeting/95655220156-1772555400000/summaries?password=5b461314-91c8-406c-ac6e-a3924c50b6f6
+
 ---
 
 #### 1\. Quick Hellos
