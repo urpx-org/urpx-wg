@@ -100,5 +100,5 @@ Attendees: Bruce Nordman, Klaartje De Schepper, David Richardson, Donald Coffin,
 - Klaartje will reach out to attendees who've been here from the beginning
 - Daniel has a system set up for reaching out to attendees
 - Once we go live, planning outreach to DER task force, Mission Data, LinkedIn;
-  - maybe NARUC/NERUK(sp?), NASBY (doing EDI/contract definitions), SEEPA
-  - "Agreements" might be important for custom pricing; FERK (sp?) is more contract-oriented
+  - maybe NARUC, NAESB (doing EDI/contract definitions), SEPA
+  - "Agreements" might be important for custom pricing; FERC is more contract-oriented
