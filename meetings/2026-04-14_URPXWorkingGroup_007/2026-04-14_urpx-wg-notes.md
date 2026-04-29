@@ -14,8 +14,6 @@
 | 6 | Documentation | Status updates, documentation updates needed, questions from materials review | Klaartje, All |
 | 7 | Other Business & Next Steps | Next meeting date/time, volunteer roles status, action item assignments. Discussion: Path towards ontology acceptance as public working group draft | Klaartje, All |
 
-## 
-
 ## Meeting Notes
 
 ---
@@ -83,3 +81,24 @@
 - Volunteer roles status: co-chair, secretary, community outreach  
 - Action item assignments from today's meeting
 
+---
+
+## Minutes
+
+Attendees: Bruce Nordman, Klaartje De Schepper, David Richardson, Donald Coffin, Una Smithsimon
+
+- Donald suggested he knew a working group with only two members, suggested mail-in voting for acceptance
+- Klaartje said we would provide "outreach materials"
+- v0.2.0 candidate circles back to "structured logic expressions" in fully machine-readable approach
+- Una presented "URPX Condition Logic" : conditions and combinations of conditions
+  - new model:
+    - structured condition modeling
+    - supports nested rule calculation
+    - condition combination structure
+  - Condition: "independently evaluable predicate", with left, right and operator
+  - Don brought up the necessity of being able to explain (with examples or AI-driven proofs of concept) for people who might not be familiar with, say, left/right operands
+- Klaartje will reach out to attendees who've been here from the beginning
+- Daniel has a system set up for reaching out to attendees
+- Once we go live, planning outreach to DER task force, Mission Data, LinkedIn;
+  - maybe NARUC, NAESB (doing EDI/contract definitions), SEPA
+  - "Agreements" might be important for custom pricing; FERC is more contract-oriented
