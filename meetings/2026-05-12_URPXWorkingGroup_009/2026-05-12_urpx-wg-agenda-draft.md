@@ -12,7 +12,7 @@
 | 4 | Test Data Review | Review test data examples and validation against ontology. | Klaartje, Una, All |
 | 5 | SHACL Rules | Overview of SHACL validation rules and constraints. | Una, All |
 | 6 | Documentation | Status updates, documentation updates needed, questions from materials review | Klaartje, All |
-| 7 | Other Business & Next Steps | Next meeting date/time, volunteer roles status, action item assignments. Discussion: Path towards ontology acceptance as public working group draft | Klaartje, All |
+| 7 | Other Business & Next Steps | Next meeting date/time, volunteer roles status, action item assignments. Discussion: Path towards ontology acceptance as public working group draft. | Klaartje, All |
 
 ## 
 
