@@ -63,7 +63,7 @@
 - Documentation updates needed  
 - Questions from members' materials review  
 - Github workflow feedback and process improvements
-- Using Semantic Flow to make URPX IRIs dereferenceable
+- Using Semantic Flow to make URPX IRIs dereferenceable: https://semantic-flow.github.io/sflo
 
 ---
 
