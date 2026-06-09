@@ -10,7 +10,7 @@
 | :---- | :---- | :---- | :---- |
 | 1 | Quick Hellos | Quick recap, welcome new and returning participants | Klaartje, new participants |
 | 2 | URPX Status Update | IP scan clean on main, documentation review feedback, urpx.org review links, v0.2.1 in place | Klaartje, All |
-| 3 | Rate-Plan Model Reframe | Main item. Walk through the circulated report; why the current version-timeline model can't represent how parts of rate plans are currently published: as tariff documents; the proposed direction | Klaartje, Dave, All |
+| 3 | Rate Plan Model Reframe | Main item. Walk through the circulated report; why the current version-timeline model can't represent how parts of rate plans are currently published: as tariff documents; the proposed direction | Klaartje, Dave, All |
 | 4 | Release & Licensing | Proposal to hold the public release and the W3C document-license transition until the reframe is resolved | Klaartje, All |
 | 5 | Documentation | Semantic Flow / dereferenceable IRIs; terminology page rewrite (waits on item 3) | Klaartje, Dave, All |
 | 6 | Test Data & SHACL | Skip unless there are questions | All |
@@ -41,7 +41,7 @@
 
 ---
 
-### 3. Rate-Plan Model Reframe
+### 3. Rate Plan Model Reframe
 
 - Background: today "Rate Plan" is spread across PDF text and tariff sheets; URPX exists to make it a first-class modelled thing.
 - The problem: the current `RatePlanVersion` model assumes each version is complete, non-overlapping, and carries all its own prices. Real publications are partial — a section amends only eligibility, a statement carries only one month's adjustment, supply prices sit in separate contracts.
