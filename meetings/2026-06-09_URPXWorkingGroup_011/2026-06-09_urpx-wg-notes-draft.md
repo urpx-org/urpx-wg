@@ -4,9 +4,9 @@
 
 #### Date: 2026-06-09 11.30AM US ET
 
-**Attendees:**
+**Attendees:** Klaar De Schepper, Donald Coffin, Don Jackson, Dave Richardson
 **Regrets:**
-**Notetaker:**
+**Notetaker:** Dave
 
 ## Meeting Notes
 
@@ -30,8 +30,15 @@ https://legendary-adventure-2qlokyv.pages.github.io/ - prod
 
 ### 3. Rate Plan Model Reframe
 
-- Discussion:
+- Discussion: 
+  - Klaar reported that DCJ gave some good feedback on tutorial page, which triggered discussion and some new ideas on terminology
+  - Expected major changes will push our draft publication timeline
+  - If we want to capture the full modelling lifecycle, we need terminology for output. 
 - Concerns raised:
+  - meetings on LFE scheduler?
+  - consider "maintainer" branch
+  - DC: detailed, but confusing; maybe a youtube explainer
+  - DC: put feelers out to DER task force; utility rate makers 
 - Cases members want tested against the model:
 - Open questions (cost result placement; grouping construct):
 
@@ -67,4 +74,6 @@ https://legendary-adventure-2qlokyv.pages.github.io/ - prod
 
 | # | Action | Owner | Due |
 | :---- | :---- | :---- | :---- |
-| 1 | | | |
+| 1 | Explorer missing on "Next (unrelease)" | Klaar | 6/23 |
+| 2 | Ensure Don Coffin has github access | Klaar | 6/11 |
+| 3 | DJC to provide Green Button linkage | DJC | 6/11 | 
