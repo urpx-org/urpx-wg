@@ -36,18 +36,19 @@
 
 ---
 
-### 4. Terminology: price, not "rate"
+### 4. Terminology: "price" replaces "rate"
 
 - Reaction to the price / rate plan / `RateGroup` framing:
-- Terminology-section draft — accepted / changes requested:
+- Terminology-section draft (accepted / changes requested):
 
 ---
 
 ### 5. Release & Licensing
 
 - Review window agreed:
-- Assent to `RatePlanVersion` re-meaning — sense of the room:
-- Release / license-transition next step:
+- Assent to `RatePlanVersion` re-meaning (sense of the room):
+- LFX vote to approve v0.3.0 and authorise going public (set up after this review):
+- License conversion (W3C Document License + CDLA-Permissive) and LF Energy IP scan, as conditions of publication:
 
 ---
 
@@ -61,7 +62,7 @@
 ### 7. Other Business & Next Steps
 
 - Feedback owners:
-- Next meeting:
+- Next regular meeting: 2026-07-21 (today is an additional v0.3.0 review session):
 - Volunteer roles:
 
 ## Action Items
