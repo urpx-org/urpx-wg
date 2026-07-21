@@ -236,7 +236,7 @@ Always use these terms consistently across all URPX materials:
 
 ### Logo Usage
 
-*(Pending logo development)*
+The co-branded LF Energy URPX logo package lives at [`branding/graphics/URPX_logo_Package/`](../graphics/URPX_logo_Package/): the full logo and the icon mark, each in Black, Color, and White versions, as EPS, PNG, and SVG.
 
 - Minimum clear space: Height of "U" in URPX on all sides
 - Minimum size: 24px height for digital, 0.5" for print
@@ -268,7 +268,7 @@ When URPX appears alongside:
 - Primary: #URPX
 - Related: #LFEnergy #OpenEnergy #EnergyData #RatePlans
 
-**Handle:** @urpx_org (when established)
+**Handle:** none established yet — announcements go through LF Energy channels and the working group mailing list (urpx-wg@lists.lfenergy.org)
 
 ### Attribution
 
