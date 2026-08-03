@@ -75,5 +75,5 @@ https://legendary-adventure-2qlokyv.pages.github.io/ - prod
 | # | Action | Owner | Due |
 | :---- | :---- | :---- | :---- |
 | 1 | Explorer missing on "Next (unrelease)" | Klaar | 6/23 |
-| 2 | Ensure Don Coffin has github access | Klaar | 6/11 |
+| 2 | Ensure Donald Coffin has github access | Klaar | 6/11 |
 | 3 | DJC to provide Green Button linkage | DJC | 6/11 | 

@@ -57,7 +57,7 @@ _The next regular meeting. The 2026-07-14 session was an additional review of th
 - Making the repository and the documentation site public, and bringing urpx.org live.
 - Where members can find the published ontology, SHACL shapes, data dictionary, worked examples, and documentation.
 - Launch announcement drafts (blog post and newsletter) are open for review before submission to LF Energy — links under Materials.
-- Organization logos: if your organization would like to be featured on urpx.org and the LF Energy landing page, please send a logo and confirm we may display it.
+- Organization logos: if your organization would like to be featured on urpx.org and the LF Energy landing page, please send a logo to urpx@fluxtailor.com and confirm we may display it.
 
 ---
 
