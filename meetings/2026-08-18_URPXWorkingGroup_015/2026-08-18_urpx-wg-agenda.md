@@ -9,13 +9,13 @@ _The v0.4.0 content is finished and the tag is next. This session covers what it
 | nr | What | Topics | Who | Time |
 | :---- | :---- | :---- | :---- | :---- |
 | 1 | Quick Hellos | Quick recap; welcome new and returning participants; volunteer note-taker for today's minutes | Klaartje, All | 4 min |
-| 2 | URPX Status Update | The v0.4.0 content is complete and the tag is imminent. What it changes for anyone implementing against URPX, why the breaking changes land now, and why the release is being cut in two so the licence conversion ships on its own | Klaartje, All | 11 min |
+| 2 | URPX Status Update | The v0.4.0 content is complete and the tag is imminent. What it changes for anyone implementing against URPX, why the breaking changes land now, and why the release is being cut in two so the licence conversion ships on its own. What has landed since 4 August, and one correction to what the group was last told | Klaartje, All | 13 min |
 | 3 | Ontology | One identifier pattern across organization, rate plan and rate plan modifier identifiers, with an open register. Worked before and after examples. The exchange package now carries every exchangeable unit through one property, so any of them can declare the URPX version it was authored against | Klaartje, All | 11 min |
 | 4 | SHACL Rules | The three identifier shapes take one surface. A package must now carry at least one unit. How the union-class constraint is stated in SHACL core, and the closed-shapes policy carried forward | Klaartje, All | 7 min |
 | 5 | API | The consuming API is in requirements gathering. General input welcome on what you would need from an API over published rate plans; the draft specification and its task are linked | Klaartje, All | 4 min |
-| 6 | Documentation | The documentation site and data dictionary; the design-decision log for v0.4.0; what the release notes will carry; member-organization logos | Klaartje, All | 7 min |
+| 6 | Documentation | The documentation site and data dictionary; the design-decision log for v0.4.0; what the release notes will carry; member-organization logos | Klaartje, All | 6 min |
 | 7 | Test Data | Every shipped test case now declares the URPX version it was authored against, and the declaration is verified rather than asserted. The California and ConEd example sets; the worked organization identity chain; questions from members' review | All | 10 min |
-| 8 | Other Business & Next Steps | Volunteer roles (co-chair, secretary, community outreach); next meeting date; action items. Time-limited slot, held to 5 to 7 minutes | Klaartje, All | 6 min |
+| 8 | Other Business & Next Steps | Volunteer roles (co-chair, secretary, community outreach); next meeting date; action items. Time-limited slot, held to 5 to 7 minutes | Klaartje, All | 5 min |
 
 ---
 
@@ -31,6 +31,13 @@ _The v0.4.0 content is finished and the tag is next. This session covers what it
 
 - **The v0.4.0 content is complete and the tag is imminent.** The vocabulary, the shapes, and every shipped test case are in their v0.4.0 state, the full fixture set validates, and there are no undefined terms left anywhere in the ontology or the shapes.
 
+- **What has landed since 4 August.** Beyond the four vocabulary changes below:
+  - **Test data.** The ten example files that carried no version declaration are now wrapped in a package that carries one, so every shipped example states the URPX version it was written against and the statement is checked. The PG&E E-TOU-C example folder lost its effective-date suffix, so the folder names the plan rather than one snapshot of it.
+  - **The form of the term identifiers is decided.** At the namespace move, URPX terms become fragments of a single vocabulary document, `https://urpx.org/ns/urpx#RatePlan`, rather than one web resource per term. The write-up in the repository carries the reasoning, the case for the alternative stated fairly, and what it means if you hold data. It is open for comment.
+  - **Release automation runs under the project's own identity.** Releases and site deployment moved off a personal account onto a GitHub App belonging to the project, so the standard does not depend on one person's credentials as it goes public. Regenerated content now arrives as a pull request to be reviewed rather than as a direct push, and both the credential step and the publication step stop rather than proceeding on a failed check.
+  - **The documentation site is built from the pages themselves.** Each page now carries its own placement, replacing a separately maintained table that had drifted from the standard's tree; the drift is now checked automatically. The v0.4.0 design-decision page is published, and the identifier register is placed in the data dictionary. A check runs over generated pages and release bodies before they publish.
+  - **The v0.3.0 release notes are finalized** as the tagged release page.
+
 - **Four things change for anyone implementing against URPX.**
   1. **One identifier pattern** across organization, rate plan and rate plan modifier identifiers. All three take the same surface, and the register an identifier comes from is an open class, so an implementer running a register outside the published set names it with an identifier of their own instead of waiting for a vocabulary release.
   2. **The exchange package carries every exchangeable unit** through a single containment property. A rate plan, a modifier, either version snapshot, a pricing model, a tariff filing and a source publication can all be packaged. The consequence worth knowing is that any of them can now declare which URPX version it was authored against, which previously only a packaged rate plan could do.
@@ -38,6 +45,8 @@ _The v0.4.0 content is finished and the tag is next. This session covers what it
   4. **Every shipped test case declares the URPX version it was authored against**, and that declaration is now checked rather than trusted.
 
 - **The breaking changes are deliberate, and they land before the first public tag.** No released vocabulary is affected: nobody outside this group can have bound to these terms yet, which is exactly why the corrections are being made now rather than carried.
+
+- **One correction to what you were last told.** The 10 August note said the term identifiers move to urpx.org at v0.4.0. The release windows have since been renumbered: v0.4.0 is the vocabulary, v0.4.1 is the licence conversion, and the move to urpx.org term identifiers is v0.5.0. The identifier form described in that write-up is unchanged, and so is the reasoning; only the release it lands in has moved. The write-up still reads v0.4.0 throughout, so read it for the change and this agenda for the release it belongs to.
 
 - **The release is being cut in two.**
   1. **v0.4.0** carries the updated vocabulary, under Apache-2.0. The full model exists as a tagged artifact before any licence conversion touches it.
