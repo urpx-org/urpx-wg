@@ -50,7 +50,7 @@ _The v0.4.0 vocabulary is finished and three documentation and mapping items sta
   1. **v0.4.0** carries the vocabulary, the shapes, the documentation content and the test cases, under Apache-2.0.
   2. **v0.4.1** carries the licence conversion and nothing else. Specifications move to the W3C Document License and datasets to CDLA-Permissive; source and metadata stay Apache-2.0. The vocabulary is unchanged across it, term for term. **The documentation goes public at this tag.**
 
-- **The sequence after that is unchanged.** v0.5.0 moves the term identifiers to urpx.org and publishes them so they resolve. v0.6.0 carries the additive highly dynamic prices bundle. The LF Energy IP scan runs against the v0.5.0 tree, and the repository and urpx.org go public after it.
+- **The sequence after that is unchanged.** v0.5.0 moves the term identifiers to urpx.org and publishes them so they resolve. The LF Energy IP scan runs against the v0.5.0 tree, and the repository and urpx.org go public after it. v0.6.0 carries the additive highly dynamic prices bundle, and it lands after the public flip rather than before it.
 
 ---
 
