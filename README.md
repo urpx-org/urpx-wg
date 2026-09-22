@@ -13,8 +13,9 @@ URPX is an open standard for exchanging utility rate plan information using sema
 
 ## Participating
 
-- **Mailing list:** [urpx-wg@lists.lfenergy.org](https://lists.lfenergy.org/g/urpx-wg) — meeting invitations and working group discussion.
-- **Meetings** are open to all participants. Notes are published here; recordings are available to attendees through the meeting platform.
+- **Mailing list:** [urpx-wg@lists.lfenergy.org](https://lists.lfenergy.org/g/urpx-wg), a public, self-service subscription that carries meeting invitations and working group discussion.
+- **Meetings** are open to anyone on the mailing list with an LFX account (free to create), which gets you the Zoom link. Notes are published here; recordings are available to attendees through the meeting platform.
+- Meeting attendance is open to anyone; voting on stage promotions and releases is reserved to a smaller committee. See [Committee membership](https://github.com/urpx-org/urpx/blob/main/GOVERNANCE.md#committee-membership) in `GOVERNANCE.md`.
 
 ## Governance
 
