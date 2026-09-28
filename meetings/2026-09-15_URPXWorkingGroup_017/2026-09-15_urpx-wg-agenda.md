@@ -2,14 +2,14 @@
 
 #### Date: 2026-09-15 11.30AM US ET (8.30AM US PT)
 
-_v0.5.0 and v0.5.1 are tagged and the tree is with LF Energy for IP review, so the next thing that happens to URPX is that it becomes public. Two parts of this session are discussions rather than reports: how the repositories should be laid out when people outside this group can see them, and what we should ask of a community data submission. Both need your input more than they need our proposal._
+_v0.5.0 is tagged. v0.5.1 carries the license transition and follows shortly, and the tree goes to LF Energy for IP review after that tag. Two parts of this session are discussions rather than reports: how the repositories should be laid out when people outside this group can see them, and what we should ask of a community data submission. Both need your input more than they need our proposal._
 
 ## Agenda
 
 | nr | What | Topics | Who | Time |
 | :---- | :---- | :---- | :---- | :---- |
 | 1 | Quick Hellos | Quick recap; welcome new and returning participants; volunteer note-taker for today's minutes | Klaartje, All | 4 min |
-| 2 | URPX Status Update | v0.5.0 and v0.5.1 are tagged and the tree is submitted for IP review. One correction to the September 8th note on which tag carries the license transition. Then a discussion: how the repositories should be laid out when the standard goes public | Klaartje, All | 18 min |
+| 2 | URPX Status Update | v0.5.0 is tagged; v0.5.1 follows. One correction to the September 8th note on which tag carries the license transition. Then a discussion: how the repositories should be laid out when the standard goes public | Klaartje, All | 18 min |
 | 3 | Ontology | No vocabulary change in either tag. Where the design work is heading, including greenhouse gas emissions and green rate plans | Klaartje, All | 5 min |
 | 4 | SHACL Rules | No shape change in either tag. The closed-shapes policy carries forward. What validating against URPX has actually been like for you | Klaartje, All | 4 min |
 | 5 | API | Still requirements gathering. What you would need from an API over published rate plans | All | 4 min |
@@ -31,11 +31,11 @@ _v0.5.0 and v0.5.1 are tagged and the tree is with LF Energy for IP review, so t
 
 - **v0.5.0 is tagged.** The term identifiers moved to `urpx.org`. A term is now written `https://urpx.org/ns/ontology/RatePlan`, the published JSON-LD context sits at `https://urpx.org/ns/context/`, and every generated artifact was regenerated against that base.
 
-- **v0.5.1 is tagged, and it is the license transition.** Specification documents move to the W3C Document License, data sets move to CDLA-Permissive-2.0, and source code and metadata stay Apache-2.0. The vocabulary and the shapes do not change across it. Only license identifiers, version literals and generated artifacts moved.
+- **v0.5.1 is the license transition, and it is not yet tagged.** Specification documents move to the W3C Document License, data sets move to CDLA-Permissive-2.0, and source code and metadata stay Apache-2.0. The vocabulary and the shapes do not change across it. Only license identifiers, version literals and generated artifacts moved.
 
 - **One correction to the note of September 8th.** That note said the license transition would ship inside v0.5.0 and that there would be no separate tag for it. It shipped one tag later instead. v0.5.0 carried the namespace alone so the publication mechanism could be built against a tree whose identifiers were already final, and the license transition became v0.5.1. The content is the same; the tag it landed in is not.
 
-- **The tree is submitted for the LF Energy IP review.** That review reads the v0.5.1 tree. It is the last gate before the repository and `urpx.org` go public.
+- **The tree goes to LF Energy for IP review once v0.5.1 is tagged.** That review reads the tagged tree. It is the last gate before the repository and `urpx.org` go public.
 
 - **What happens next, in order.** IP review clears, then the repository goes public and `urpx.org` serves the namespace and the documentation. v0.6.0 carries the additive highly dynamic prices work and lands after the public flip, not before it.
 
@@ -173,3 +173,7 @@ _Time-limited slot._
 - v0.5.1 release notes: https://github.com/urpx-org/urpx/blob/v0.5.1/documentation/pages/urpx-release-notes-v0.5.1.md
 - License transition plan: https://github.com/urpx-org/urpx/blob/v0.5.1/TRANSITION.md
 - Meeting agendas and notes: https://github.com/urpx-org/urpx-wg/tree/main/meetings
+
+---
+
+_Corrected 2026-09-28: this agenda as first published stated that v0.5.1 was tagged and that the tree had been submitted for the LF Energy IP review. Neither had happened. The text above is corrected; nothing else in the agenda changed._
