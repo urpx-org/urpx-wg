@@ -147,8 +147,8 @@ _The v0.4.0 content is finished and the tag is next. This session covers what it
 The consuming API for published rate plans is in requirements gathering. We are collecting input rather than reviewing an interface.
 
 - **What would you need from an API that reads published rate plans?** What you would call, what you would need back, and what would make it unusable for your systems. General input is what is useful at this stage, in the meeting or on the draft.
-- The draft specification: https://github.com/urpx-org/urpx/blob/main/dev-docs/specs/spec.urpx.api.047.consuming-api.md
-- The task carrying the design work, where requirements can be added: https://github.com/urpx-org/urpx/blob/main/dev-docs/tasks/task.urpx.api.2026-07-22.consuming-api-design.md
+- The draft specification: https://github.com/urpx-org/urpx-dev/blob/main/dev-docs/specs/spec.urpx.api.047.consuming-api.md
+- The task carrying the design work, where requirements can be added: https://github.com/urpx-org/urpx-dev/blob/main/dev-docs/tasks/task.urpx.api.2026-07-22.consuming-api-design.md
 
 ---
 
@@ -185,8 +185,8 @@ _Time-limited slot, held to 5 to 7 minutes._
 
 - The standard: https://github.com/urpx-org/urpx
 - Documentation site (staging preview): https://fictional-chainsaw-y74j7yq.pages.github.io/
-- Consuming API draft specification: https://github.com/urpx-org/urpx/blob/main/dev-docs/specs/spec.urpx.api.047.consuming-api.md
-- Consuming API design task, where requirements can be added: https://github.com/urpx-org/urpx/blob/main/dev-docs/tasks/task.urpx.api.2026-07-22.consuming-api-design.md
-- Reports and reviews folder (post feedback here): https://github.com/urpx-org/urpx/tree/main/dev-docs/reports
-- Contribute tasks and examples: https://github.com/urpx-org/urpx/tree/main/dev-docs/tasks
+- Consuming API draft specification: https://github.com/urpx-org/urpx-dev/blob/main/dev-docs/specs/spec.urpx.api.047.consuming-api.md
+- Consuming API design task, where requirements can be added: https://github.com/urpx-org/urpx-dev/blob/main/dev-docs/tasks/task.urpx.api.2026-07-22.consuming-api-design.md
+- Reports and reviews folder (post feedback here): https://github.com/urpx-org/urpx-dev/tree/main/dev-docs/reports
+- Contribute tasks and examples: https://github.com/urpx-org/urpx-dev/tree/main/dev-docs/tasks
 - v0.3.0 release notes: https://github.com/urpx-org/urpx/blob/main/documentation/pages/urpx-release-notes-v0.3.0.md

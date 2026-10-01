@@ -22,7 +22,7 @@ _An additional session, called to review the v0.3.0 candidate ahead of the relea
 
 ### Pre-read
 
-- **URPX Model Update — Walkthrough of the v0.3.0 Candidate** in urpx/dev-docs/reports (accessible to members). Please read sections 2, 6, and 8 before the call.
+- **URPX Model Update — Walkthrough of the v0.3.0 Candidate** in urpx-dev/dev-docs/reports (accessible to members). Please read sections 2, 6, and 8 before the call.
 
 ---
 

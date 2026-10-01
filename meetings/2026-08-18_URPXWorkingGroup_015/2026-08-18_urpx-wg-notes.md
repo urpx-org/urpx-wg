@@ -101,7 +101,7 @@ _Reported: the API specification will be public, and is designed as a read-only 
 - Klaartje will prepare a status update for the LF Energy technical committee.
 - The draft communications announcements for the public launch remain open for review.
 - Design principles, and keeping compatibility with existing data, were raised as things to improve as the standard grows.
-- **Where to contribute.** Work in progress is tracked in the `dev-docs/tasks/` folder of the URPX repository, where contributors can add a task or pick one up. It is a lower barrier than filing an issue for anyone working with an assistant. One standing expectation goes with it: whatever you submit, you have written and reviewed it yourself. Drafting with a language model does not transfer that responsibility. Submissions should be concise, accurate and actionable rather than long and generated, because review time is the scarce resource here.
+- **Where to contribute.** Work in progress is tracked in the `dev-docs/tasks/` folder of the `urpx-org/urpx-dev` repository, where contributors can add a task or pick one up. It is a lower barrier than filing an issue for anyone working with an assistant. One standing expectation goes with it: whatever you submit, you have written and reviewed it yourself. Drafting with a language model does not transfer that responsibility. Submissions should be concise, accurate and actionable rather than long and generated, because review time is the scarce resource here.
 - Action items are recorded in the table below.
 
 ## Action Items
@@ -126,10 +126,10 @@ _Reported: the API specification will be public, and is designed as a read-only 
 
 - The standard: https://github.com/urpx-org/urpx
 - Documentation site (staging preview): https://fictional-chainsaw-y74j7yq.pages.github.io/
-- Consuming API draft specification: https://github.com/urpx-org/urpx/blob/main/dev-docs/specs/spec.urpx.api.047.consuming-api.md
-- Consuming API design task, where requirements can be added: https://github.com/urpx-org/urpx/blob/main/dev-docs/tasks/task.urpx.api.2026-07-22.consuming-api-design.md
-- Reports and reviews folder (post feedback here): https://github.com/urpx-org/urpx/tree/main/dev-docs/reports
-- Contribute tasks and examples: https://github.com/urpx-org/urpx/tree/main/dev-docs/tasks
+- Consuming API draft specification: https://github.com/urpx-org/urpx-dev/blob/main/dev-docs/specs/spec.urpx.api.047.consuming-api.md
+- Consuming API design task, where requirements can be added: https://github.com/urpx-org/urpx-dev/blob/main/dev-docs/tasks/task.urpx.api.2026-07-22.consuming-api-design.md
+- Reports and reviews folder (post feedback here): https://github.com/urpx-org/urpx-dev/tree/main/dev-docs/reports
+- Contribute tasks and examples: https://github.com/urpx-org/urpx-dev/tree/main/dev-docs/tasks
 - v0.3.0 release notes: https://github.com/urpx-org/urpx/blob/main/documentation/pages/urpx-release-notes-v0.3.0.md
 
 ---

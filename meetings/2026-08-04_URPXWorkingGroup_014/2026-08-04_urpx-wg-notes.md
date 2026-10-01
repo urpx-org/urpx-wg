@@ -88,7 +88,7 @@ _Reported: v0.3.0 is merged. The room agreed to fold the planned v0.3.1 into v0.
 ### 8. Other Business & Next Steps
 
 - **A task and specification system is now in use** for the work on the standard, so contributions can be assigned and tracked and participation can extend beyond Flux Tailor.
-- **Where to contribute.** Work in progress is tracked in the `dev-docs/tasks/` folder of the URPX repository, where contributors can add a task or pick one up. It is a lower barrier than filing an issue for anyone working with an assistant. One standing expectation goes with it: whatever you submit, you have written and reviewed it yourself. Drafting with a language model does not transfer that responsibility. Submissions should be concise, accurate and actionable rather than long and generated, because review time is the scarce resource here.
+- **Where to contribute.** Work in progress is tracked in the `dev-docs/tasks/` folder of the `urpx-org/urpx-dev` repository, where contributors can add a task or pick one up. It is a lower barrier than filing an issue for anyone working with an assistant. One standing expectation goes with it: whatever you submit, you have written and reviewed it yourself. Drafting with a language model does not transfer that responsibility. Submissions should be concise, accurate and actionable rather than long and generated, because review time is the scarce resource here.
 - Bruce was invited to review the specifications and the dynamic pricing work in the development documents.
 - Don Coffin requested a one-on-one with Klaartje on the Green Button mapping and standards integration.
 - A draft mapping from URPX to OpenADR exists; Klaartje offered to coordinate with Don Coffin on it.
@@ -116,8 +116,8 @@ _Reported: v0.3.0 is merged. The room agreed to fold the planned v0.3.1 into v0.
 - v0.3.0 release notes: https://github.com/urpx-org/urpx/blob/main/documentation/pages/urpx-release-notes-v0.3.0.md
 - The standard: https://github.com/urpx-org/urpx
 - Updated site (staging preview): https://fictional-chainsaw-y74j7yq.pages.github.io/
-- Reports and reviews folder (post feedback here): https://github.com/urpx-org/urpx/tree/main/dev-docs/reports
-- Contribute tasks and examples: https://github.com/urpx-org/urpx/tree/main/dev-docs/tasks
+- Reports and reviews folder (post feedback here): https://github.com/urpx-org/urpx-dev/tree/main/dev-docs/reports
+- Contribute tasks and examples: https://github.com/urpx-org/urpx-dev/tree/main/dev-docs/tasks
 - Launch announcement drafts: blog https://github.com/urpx-org/urpx-wg/blob/main/announcements/2026-07-09.lf-energy-blog-post.draft.md · newsletter https://github.com/urpx-org/urpx-wg/blob/main/announcements/2026-07-09.lf-energy-newsletter.draft.md
 
 ---

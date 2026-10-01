@@ -20,7 +20,7 @@
 
 ### Pre-read
 
-- Walkthrough report: **"URPX Was Broken — we think we fixed it, please help us check"** (circulated; `urpx/dev-docs/reports`). Please read items 3 and 4 before the call.
+- Walkthrough report: **"URPX Was Broken — we think we fixed it, please help us check"** (circulated; `urpx-dev/dev-docs/reports`). Please read items 3 and 4 before the call.
 
 ---
 

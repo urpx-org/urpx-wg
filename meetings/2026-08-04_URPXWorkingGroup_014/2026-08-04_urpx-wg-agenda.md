@@ -99,6 +99,6 @@ _Time-limited slot, held to 5–7 minutes._
 - v0.3.0 release notes: https://github.com/urpx-org/urpx/blob/main/documentation/pages/urpx-release-notes-v0.3.0.md
 - The standard: https://github.com/urpx-org/urpx
 - Updated site (staging preview): https://fictional-chainsaw-y74j7yq.pages.github.io/
-- Reports and reviews folder (post feedback here): https://github.com/urpx-org/urpx/tree/main/dev-docs/reports
-- Contribute tasks and examples: https://github.com/urpx-org/urpx/tree/main/dev-docs/tasks
+- Reports and reviews folder (post feedback here): https://github.com/urpx-org/urpx-dev/tree/main/dev-docs/reports
+- Contribute tasks and examples: https://github.com/urpx-org/urpx-dev/tree/main/dev-docs/tasks
 - Launch announcement drafts: blog https://github.com/urpx-org/urpx-wg/blob/main/announcements/2026-07-09.lf-energy-blog-post.draft.md · newsletter https://github.com/urpx-org/urpx-wg/blob/main/announcements/2026-07-09.lf-energy-newsletter.draft.md
