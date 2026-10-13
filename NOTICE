@@ -1,0 +1,6 @@
+URPX Working Group
+Copyright The URPX Authors
+
+The materials in this repository are the working group's public record: meeting agendas, notes, presented decks, recordings and transcripts, announcements, and the URPX brand assets. They are licensed under the Creative Commons Attribution 4.0 International license (CC-BY-4.0). See the LICENSE file for the license text and LICENSES/CC-BY-4.0.txt for the SPDX-canonical copy.
+
+The URPX standard itself — the ontology, SHACL shapes, SKOS mappings, documentation pages, and test-case data — lives in the urpx repository and carries its own licenses by file category. See that repository's NOTICE.

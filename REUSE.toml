@@ -1,0 +1,17 @@
+version = 1
+
+# REUSE annotations for the URPX Working Group's public materials.
+#
+# The working group's records and brand assets are licensed under CC-BY-4.0, LF Energy's recommended license for documentation that is neither source code nor data. One aggregate annotation covers the whole tree. A file that carries its own SPDX header takes precedence over this entry.
+
+[[annotations]]
+path = [
+    "meetings/**",
+    "announcements/**",
+    "branding/**",
+    "graphics/**",
+    "README.md",
+]
+precedence = "aggregate"
+SPDX-FileCopyrightText = "The URPX Authors"
+SPDX-License-Identifier = "CC-BY-4.0"

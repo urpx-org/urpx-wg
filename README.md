@@ -20,3 +20,9 @@ URPX is an open standard for exchanging utility rate plan information using sema
 ## Governance
 
 The working group operates under its LFESS charter, which designates it as the body responsible for promoting URPX materials through the LFESS stages (Sandbox → Draft → Approved). Roles and decision making are described in the [urpx repository's GOVERNANCE.md](https://github.com/urpx-org/urpx/blob/main/GOVERNANCE.md).
+
+## License
+
+The materials in this repository are the working group's public record: meeting agendas, notes, presented decks, recordings and transcripts, announcements, and the URPX brand assets. They are licensed under the [Creative Commons Attribution 4.0 International license (CC-BY-4.0)](LICENSE), LF Energy's recommended license for documentation that is neither source code nor data. See [NOTICE](NOTICE) for the full statement; [`REUSE.toml`](REUSE.toml) records the SPDX annotations and the repository lints clean under [REUSE](https://reuse.software/).
+
+The URPX standard itself — the ontology, SHACL shapes, SKOS mappings, documentation pages, and test-case data — lives in the [urpx repository](https://github.com/urpx-org/urpx) and carries its own licenses by file category.
